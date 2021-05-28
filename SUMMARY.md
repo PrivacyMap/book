@@ -1,6 +1,6 @@
 # Table of contents
 
-* [PrivacyMap](README.md)
+* [PrivacyMap - Um caminho para privacidade.](README.md)
 * [Sobre o Autor](sobre-o-autor.md)
 
 ## Regras
