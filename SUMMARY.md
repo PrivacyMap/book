@@ -6,6 +6,7 @@
 ## Regras
 
 * [Código de Conduta para Colaboradores](regras/codigo-de-conduta-para-colaboradores.md)
+* [TL:DR; das regras](regras/tl-dr-das-regras.md)
 
 ## Back to basics
 
