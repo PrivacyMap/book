@@ -1,6 +1,7 @@
 # Table of contents
 
 * [PrivacyMap](README.md)
+* [Sobre o Autor](sobre-o-autor.md)
 
 ## Regras
 
@@ -8,25 +9,21 @@
 
 ## Back to basics
 
-* [Untitled](back-to-basics/untitled.md)
+* [todo](back-to-basics/untitled.md)
 
 ## Softwares
 
-* [Untitled](softwares/untitled.md)
+* [todo](softwares/untitled.md)
 
 ## Sistemas Operacionais
 
-* [Untitled](sistemas-operacionais/untitled.md)
+* [todo](sistemas-operacionais/untitled.md)
 
 ## Navegadores
 
-* [Untitled](navegadores/untitled.md)
+* [todo](navegadores/untitled.md)
 
 ## Dispositivos móveis
 
-* [Untitled](dispositivos-moveis/untitled.md)
-
----
-
-* [Sobre o Autor](sobre-o-autor.md)
+* [todo](dispositivos-moveis/untitled.md)
 
