@@ -10,7 +10,15 @@
 
 ## Back to basics
 
-* [todo](back-to-basics/untitled.md)
+* [Seja simples, comece do básico.](back-to-basics/seja-simples-comece-do-basico..md)
+* [Modelagem de Ameaças](back-to-basics/untitled.md)
+* [Privacy Basics](back-to-basics/privacy-basics/README.md)
+  * [Senhas](back-to-basics/privacy-basics/senhas.md)
+  * [Autenticação de dois fatores](back-to-basics/privacy-basics/autenticacao-de-dois-fatores.md)
+  * [E-mails](back-to-basics/privacy-basics/e-mails.md)
+  * [Aplicativos de Mensagens Instantâneas](back-to-basics/privacy-basics/aplicativos-de-mensagens-instantaneas.md)
+  * [Smartphones \(Telefones Celular\)](back-to-basics/privacy-basics/smartphones-telefones-celular.md)
+  * [Computadores](back-to-basics/privacy-basics/computadores.md)
 
 ## Softwares
 
