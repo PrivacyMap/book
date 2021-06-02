@@ -10,9 +10,13 @@ Todas as vezes que alguém me pergunta se determinado aplicativo X é melhor do 
 
 Quando pensamos em qualquer tipo de proteção, é necessário saber basicamente o que estamos protegendo, de quem protegemos e porque é importante proteger.
 
-Obviamente não existem maneiras de garantir a segurança em todo tempo e a todo momento. Sempre haverá probabilidades e possibilidades de algo dar errado. A modelagem de ameaças possui um papel importante para tomarmos as decisões adequadas proativamente.
+Obviamente, não existem maneiras de garantir a segurança em todo tempo e a todo momento. Sempre haverá probabilidades e possibilidades de algo dar errado. Tenha em mente que ferramentas diferentes tratam de problemas diferentes. 
 
-Então antes de fazer qualquer coisa e utilizar qualquer ferramenta, **DEFINA SEU MODELO DE AMEAÇAS!**
+Superestimar seu modelo de ameaças também pode ser um problema! Se você começar usando sistemas operacionais _só por que é legal_, máquinas virtuais, ou qualquer outra coisa técnica quando realmente não é necessário \(ou quando você não sabe usar\), você provavelmente está perdendo seu tempo e pode estar se pondo em risco. 
+
+Na melhor das hipóteses, mesmo a mais simples tarefas podem demorar um pouco mais; na pior das hipóteses, você pode estar tendo uma falsa sensação de segurança com serviços e hardware de que você não precisa, sem levar em conta as verdadeiras ameaças que você pode estar enfrentando.
+
+A modelagem de ameaças possui um papel importante para tomarmos as decisões adequadas proativamente e de maneira realista. Então antes de fazer qualquer coisa e utilizar qualquer ferramenta, **DEFINA SEU MODELO DE AMEAÇAS!**
 
 **//TODO**
 
