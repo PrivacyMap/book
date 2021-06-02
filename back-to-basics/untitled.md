@@ -12,7 +12,7 @@ Quando pensamos em qualquer tipo de proteção, é necessário saber basicamente
 
 Obviamente, não existem maneiras de garantir a segurança em todo tempo e a todo momento. Sempre haverá probabilidades e possibilidades de algo dar errado. Tenha em mente que ferramentas diferentes tratam de problemas diferentes. 
 
-Superestimar seu modelo de ameaças também pode ser um problema! Se você começar usando sistemas operacionais _só por que é legal_, máquinas virtuais, ou qualquer outra coisa técnica quando realmente não é necessário \(ou quando você não sabe usar\), você provavelmente está perdendo seu tempo e pode estar se pondo em risco. 
+Superestimar seu modelo de ameaças também pode ser um problema! Se você começar usando sistemas operacionais _só por que é legal_, máquinas virtuais, ou qualquer outra coisa técnica quando realmente não é necessário \(ou quando você não sabe usar\), provavelmente você está perdendo seu tempo e pode estar se pondo em risco. 
 
 Na melhor das hipóteses, mesmo a mais simples tarefas podem demorar um pouco mais; na pior das hipóteses, você pode estar tendo uma falsa sensação de segurança com serviços e hardware de que você não precisa, sem levar em conta as verdadeiras ameaças que você pode estar enfrentando.
 
