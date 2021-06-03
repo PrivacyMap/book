@@ -1,3 +1,6 @@
+## Capítulo em construção
+
+
 ## INTRODUÇÃO
 
 ##### O navegador é um dos principais softwares instalados em nosso computadores pessoais. Facilmente, o software no qual você passa mais tempo. Essa realidade torna os navegadores um dos principais pontos de contato com o mundo exterior, então, devemos nos atentar às possíveis implicações desses fatos, tendo como objetivos preservar nossa privacidade e segurança. 
@@ -96,9 +99,9 @@
 
 ##### Duckduckgo
 
-Privacybrowser
+##### Privacy Browser
 
-### Navegadores recomendados para IOS
+#### Navegadores recomendados para IOS
 
 ##### Firefox 
 
@@ -398,26 +401,15 @@ utilizar esse serviço
 
 
 
+## Apêndice D (configurações Tor)
 
+##### Como o Tor Browser tenta garantir anonimato por meio da generalização da identidade virtual, você deve manter as alterações no nível mínimo.
 
+##### Recomendam-se apenas as seguintes alterações: 
 
+##### *Quando iniciar o Tor Browser, clique no ícone do escudo, no canto superior direito. Clique em "configurações avançadas de segurança". Altere o nível de segurança de acordo com as suas demandas pessoais. 
 
-
-
-Apêndice D (configurações Tor)
-
-Como o Tor Browser tenta garntir anonimato por meio da generalização da identidade virtual, você deve manter as alterações no nível mínimo.
-
-Recomendam-se apenas as seguintes alterações: 
-
-
-
-
-
-
-
-
-
+##### *Caso queira maior nível de anonimato, utilize o Tor com a opção de bridges.
 
 
 ## Apêndice E (links úteis)
