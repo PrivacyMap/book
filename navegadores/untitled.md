@@ -14,9 +14,9 @@
 
 #### Uma das formas mais diretas de proteger sua segurança na web é aplicar atualizações em softwares críticos, navegadores incluidos. Por meio das atualizações periodicamente fornecidas pelos desenvolvedores, são corrigidas vulnerabilidades que, se exploradas, poderiam levar à perda de dados ou infecção por malwares diversos.
 
-#### Ter cuidado com as extenções instaladas
+#### Ter cuidado com as extensões instaladas
 
-Extenções adicionam funcionalidade e comodidade aos navegadores, porém, apenas extenções confiáveis devem ser instaladas, pois adquirem privilégios elevados e criam o ambiente propício para a exploração maliciosa da sua navegação. Tenha um foco minimalista, instalando apenas o que for necessário e removendo aquilo que não lhe serve mais. Cada instalação potencialmente abre uma nova porta de exploração do seu sistema. 
+Extensões adicionam funcionalidade e comodidade aos navegadores, porém, apenas extensões confiáveis devem ser instaladas, pois adquirem privilégios elevados e criam o ambiente propício para a exploração maliciosa da sua navegação. Tenha um foco minimalista, instalando apenas o que for necessário e removendo aquilo que não lhe serve mais. Cada instalação potencialmente abre uma nova porta de exploração do seu sistema. 
 
 #### Usar um adblocker
 
