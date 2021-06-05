@@ -13,27 +13,19 @@
 
 #### *Manter o navegador atualizado
 
-##### Uma das formas mais diretas de proteger sua segurança na web é aplicar atualizações em softwares críticos, navegadores incluídos. Por meio das atualizações periodicamente fornecidas pelos desenvolvedores, são corrigidas vulnerabilidades que, se exploradas, podem levar à perda de dados ou infecção por malwares diversos.
+##### Uma das formas mais diretas de proteger sua segurança na web é manter todos os programas atualizados, do mesmo modo os navegadores. Por meio das atualizações periodicamente fornecidas pelos desenvolvedores, são corrigidas vulnerabilidades que, se exploradas, podem levar à perda de dados ou infecção por malwares diversos.
 
 #### *Ter cuidado com as extensões instaladas
 
 ##### Extensões adicionam funcionalidade e comodidade aos navegadores, porém, apenas extensões confiáveis devem ser instaladas, pois adquirem privilégios elevados e criam o ambiente propício para a exploração maliciosa da sua navegação. Tenha um foco minimalista, instalando apenas o que for necessário e removendo aquilo que não lhe serve mais. Cada instalação potencialmente abre uma nova porta de exploração do seu sistema. 
 
-#### *Usar um adblocker
+#### *Usar um bloqueador de anúncios
 
-##### Atualmente, a internet está permeada por anúncios dos mais diversos. Por si só, não representam grandes problemas, mas a realidade não é tão simples. Não apenas empresas honestas criam anúncios digitais e mesmo a infraestrutura de empresas honestas pode ser comprometida por indivíduos maliciosos, sendo assim, casos de propagandas e redes de anúncios comprometidos para a disseminação de malwares são um problema real. Esse tipo de ataque, denominado malwarvertising, é especialmente difícil de ser detectado por um usuário comum. Mesmo que você mantenha bons hábitos de navegação, não se aventurando em sites escusos, quando comprometida, uma rede de anúncios pode disseminar malwares mesmo em sites legítimos, como os de notícias que você acessa todos os dias. Adicionalmente, os adblockers mais completos proporcionam outros tipos de proteção, como contra criptominers e rastreadores. 
+##### Atualmente, a internet está permeada por anúncios dos mais diversos. Por si só, não representam grandes problemas, mas a realidade não é tão simples. Não apenas empresas honestas criam anúncios digitais e mesmo a infraestrutura de empresas honestas pode ser comprometida por indivíduos maliciosos, sendo assim, casos de propagandas e redes de anúncios comprometidos para a disseminação de malwares são um problema real. Esse tipo de ataque, denominado malvertising, é especialmente difícil de ser detectado por um usuário comum. Mesmo que você mantenha bons hábitos de navegação, não se aventurando em sites escusos, quando comprometida, uma rede de anúncios pode disseminar malwares mesmo em sites legítimos, como os de notícias que você acessa todos os dias. Adicionalmente, os bloqueadores de anúncios mais completos proporcionam outros tipos de proteção, como contra criptominers e rastreadores. 
 
-#### *Não armazenar senhas importates nos navegadores
+#### *Não armazenar senhas importantes nos navegadores
 
 ##### Alguns ataques utilizam as senhas salvas nos navegadores como fontes de coleta de informação. A praticidade, inclusive, abre espaço para atacantes desprovidos de elevado nível técnico, bastando, até mesmo, o simples uso local do computador desbloqueado por um membro da família ou colega de trabalho. Uma prática mais eficaz para a proteção de suas contas digitais é a utilização de uma gerenciador de senhas, tópico explorado no capítulo XX.
-
-#### *Utilizar um bloqueador de scripts
-
-##### Scripts, principalmente baseados em java, são um dos principais responsáveis pela funcionalidade da internet moderna. A modernização e aumento da interatividade das páginas web têm um preço, no entanto. Códigos em javascript podem ser utilizados para manipular a navegação para fins diversos. Um bloqueador de scripts ajuda a proteger o usuário da execução de códigos maliciosos nas páginas que visita, elevando o grau de segurança de sua navegação.
-
-#### *Escolher um navegador com boa manutenção 
-
-##### Quando pensamos em navegadores, os primeiros que vêm à nossa mente são, provavelmente, o Google Chrome, Microsoft Edge e Mozila Firefox, porém, existem dezenas de navegadores web disponíveis para uso imediato. Com tantas opções de escolha, devemos nos atentar à manutenção desses projetos, pois alguns apresentam releases esparsos, o que compromete a segurança do usuário pela falta de atalizações constantes. Em segurança, não surpreendentemente, uma boa prática é ser minimalista. Browsers com muitas funcionalidades e alto nível de inovação abrem brechas para a exploração maliciosa de seus códigos, por isso, devemos escolher projetos com bom fluxo de manutenção. 
 
 ## PRIVACIDADE
 
@@ -41,17 +33,13 @@
 
 ##### O navegador Mozilla Firefox, tido como uma alternativa de privacidade frente ao Chrome, apresenta problemas graves quanto utilizado sem devida configuração. Detalhes de como configurar o Firefox para um elevado grau de privacidade podem ser encontrados no apêndice B, ao final desse capítulo. O navegador Brave Browser, assim como o Firefox, não deve ser encarado como uma boa alternativa quando não previamente configurado.
 
-##### Navegadores como o Falkon e o Iridium apresentam significativas melhoras no quesito privacidade, sendo projetos de código aberto e configurados previamente com maior nível de privacidade em mente, contudo, por serem navegadores pouco utilizados, se destacam com suas impressões digitais virtuais, tratadas em maior detalhamento no capítulo XX, o que pode facilitar a identificação dos usuários e aumentar a capacidade de rastreio por toda a navegação realizada. 
+##### Navegadores como o Falkon e o Iridium apresentam significativas melhoras no quesito privacidade, sendo projetos de código aberto e configurados previamente com maior nível de privacidade em mente, contudo, por serem navegadores pouco utilizados, se destacam com suas impressões digitais virtuais, tratadas em maior detalhamento no capítulo XX, o que pode facilitar a identificação dos usuários e aumentar a capacidade de rastreio por toda a navegação realizada. No mais, não apresentam bom fluxo de atualização. 
 
 #### Para conseguir bom nível de privacidade, pense em:
 
-#### *Utilizar um adblocker
+#### *Utilizar um bloqueador de anúncios
 
-##### Adblockers não apenas aumentam o nível de segurança da sua navegação, mas sua privacidade também. Os melhores adblockers bloqueiam anúncios, rastreadores e sites maliciosos. Caso não bloqueados, os rastreadores presentes nos sites podem nos acompanhar por todo o percurso de navegação, comprometendo a capacidade de mantermos nosso histórico privado. Um exemplo que método de rastreio são os cookies de terceiros. Maiores explicações podem ser encontradas no glossário, ao final desse capítulo.  
-
-#### *Utilizar um bloqueador de scripts
-
-##### Privacidade e segurança são conceitos distintos, contudo, apresentam diversas similaridades. Scripts em páginas web têm a capacidade de coletar dados capazes de identificar com precisão o usuário, potencialmente proporcionando o rastreio de toda a navegação realizada por ele. Bloquear scrips desnecessários pode aumentar consideravelmente a capacidade de se realizar uma navegação privada.
+##### Bloqueadores de anúncios não apenas aumentam o nível de segurança da sua navegação, mas sua privacidade também. Os melhores bloqueiam anúncios, rastreadores e sites maliciosos. Caso não bloqueados, os rastreadores presentes nos sites podem nos acompanhar por todo o percurso de navegação, comprometendo a capacidade de mantermos nosso histórico privado. Um exemplo que método de rastreio são os cookies de terceiros. Maiores explicações podem ser encontradas no glossário, ao final desse capítulo.  
 
 #### *Ter cuidado com as extenções instaladas
 
@@ -68,6 +56,20 @@
 ##### Um exemplo: Você apenas utiliza o Brave Browser para contas e sites relacionados com a empresa Google, utilizando o Firefox para outras contas pessoais e o Tor Browser para contas que não apresentam seu nome verdadeiro. O uso de uma vpn ajuda essa estratégia, a menos que se refira à rede Tor na qual deve-se priorizar a conexão por bridges (ver capítulo XX). Você pode escolher tanto uma vpn para o seu sistema, quanto uma vpn para, digamos, o Firefox, separando suas identidades de navegação. 
 
 ##### Utilizando corretamente essa estratégia, você poderá dificultar substancialmente a coleta de seus dados pelas grandes empresas de tecnologia, principalmente google e facebook, capazes de te rastrear por toda a internet.  
+
+## Técnicas avançadas de navegação 
+
+Nessa seção, você entrará em contato com ferramentas e técnicas mais avançadas. Apenas a prática proporcionará a integração do aqui exposto em sua navegação diária. Quanto mais específica a situação, maiores as nuances encontradas pelos usuários.
+
+#### *Utilizar um bloqueador de scripts
+
+##### Scripts, principalmente baseados em java, são um dos principais responsáveis pela funcionalidade da internet moderna. A modernização e aumento da interatividade das páginas web têm um preço, no entanto. Códigos em javascript podem ser utilizados para manipular a navegação para fins diversos. Um bloqueador de scripts ajuda a proteger o usuário da execução de códigos maliciosos nas páginas que visita, elevando o grau de segurança de sua navegação.
+
+##### Privacidade e segurança são conceitos distintos, contudo, apresentam diversas similaridades. Scripts em páginas web têm a capacidade de coletar dados capazes de identificar com precisão o usuário, potencialmente proporcionando o rastreio de toda a navegação realizada por ele. Bloquear scrips desnecessários pode aumentar consideravelmente a capacidade de se realizar uma navegação privada.
+
+#### *Escolher um navegador com boa manutenção 
+
+##### Quando pensamos em navegadores, os primeiros que vêm à nossa mente são, provavelmente, o Google Chrome, Microsoft Edge e Mozila Firefox, porém, existem dezenas de navegadores web disponíveis para uso imediato. Com tantas opções de escolha, devemos nos atentar à manutenção desses projetos, pois alguns apresentam releases esparsos, o que compromete a segurança do usuário pela falta de atalizações constantes. Em segurança, não surpreendentemente, uma boa prática é ser minimalista. Browsers com muitas funcionalidades e alto nível de inovação abrem brechas para a exploração maliciosa de seus códigos, por isso, devemos escolher projetos com bom fluxo de manutenção. 
 
 ## Conclusão do capítulo
 
@@ -147,7 +149,7 @@ Honrar esta configuração é opcional, os sites não são obrigados a respeitar
 
 ##### Na aba pesquisa, altere o seu mecanismo de pesquisa para uma alternativa que respeita mais sua privacidade, como o Duckduckgo
 
-##### Instale um adblocker
+##### Instale um bloqueador de anúncios
 
 ### Nível avançado
 
@@ -399,7 +401,9 @@ utilizar esse serviço
 
 ##### No canto superior direito, clique nos três riscos horizontais e procure por configurações
 
+## continuar
 
+## adicionar configurações para outros navegadores?
 
 ## Apêndice D (configurações Tor)
 
@@ -429,7 +433,7 @@ utilizar esse serviço
 
 ## Apêndice F (glossário)
 
-##### Ad blocker -> 
+##### Bloqueador de anúncios -> 
 
 ##### Browser fingerprinting -> 
 
