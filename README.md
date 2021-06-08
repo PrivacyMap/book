@@ -1,4 +1,4 @@
-# PrivacyMap - Um caminho para privacidade.
+# PrivacyMap - Um caminho para a privacidade.
 
 A missão do PrivacyMap é mostrar que existe um caminho para privacidade. O intuito desse livro é prover informações e ferramentas necessárias para proteger sua privacidade e segurança on-line.
 
