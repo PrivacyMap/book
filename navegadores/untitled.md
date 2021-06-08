@@ -1,9 +1,50 @@
-## Capítulo em construção
-
-
 ## INTRODUÇÃO
 
 ##### O navegador é um dos principais softwares instalados em nosso computadores pessoais. Facilmente, o software no qual você passa mais tempo. Essa realidade torna os navegadores um dos principais pontos de contato com o mundo exterior, então, devemos nos atentar às possíveis implicações desses fatos, tendo como objetivos preservar nossa privacidade e segurança. 
+
+## Impressão digital de navegadores e dispositivos (fingerprinting)
+
+##### Métodos mais modernos de rastreamento dependem de uma variada gama de informações e configurações presentes nos navegadores atuais ou acessíveis através deles. Cada site que acessamos é capaz de identificar diversos parâmetros associados ao navegador e dispositivo que usamos, primordialmente, pelo uso de javascript. Essas informações são:
+
+##### *user agent
+
+##### *idioma
+
+##### *extensões instaladas no navegador
+
+##### *tipo/modelo de dispositivo
+
+##### *sistema operacional
+
+##### *lista de fontes
+
+##### *presença de um bloqueador de anúncios
+
+##### *resolução da tela
+
+##### *hora do sistema
+
+##### *elemento canvas
+
+##### *preferência de cookies
+
+##### *preferência de "do not track"
+
+##### *estado do javascript
+
+##### *presença de câmera e microfone
+
+##### *estado da bateria
+
+##### *informações do driver gráfico
+
+##### *arquitetura da cpu
+
+##### *capacidade da memória ram instalada
+
+##### dentre muitas outras
+
+##### Somadas, essas informações são mais que suficientes para identificar um usuário com precisão, podendo definir sua navegação por inteiro. 
 
 ## SEGURANÇA
 
@@ -21,9 +62,11 @@
 
 #### *Usar um bloqueador de anúncios
 
-##### Atualmente, a internet está permeada por anúncios dos mais diversos. Por si só, não representam grandes problemas, mas a realidade não é tão simples. Não apenas empresas honestas criam anúncios digitais e mesmo a infraestrutura de empresas honestas pode ser comprometida por indivíduos maliciosos, sendo assim, casos de propagandas e redes de anúncios comprometidos para a disseminação de malwares são um problema real. Esse tipo de ataque, denominado malvertising, é especialmente difícil de ser detectado por um usuário comum. Mesmo que você mantenha bons hábitos de navegação, não se aventurando em sites escusos, quando comprometida, uma rede de anúncios pode disseminar malwares mesmo em sites legítimos, como os de notícias que você acessa todos os dias. Adicionalmente, os bloqueadores de anúncios mais completos proporcionam outros tipos de proteção, como contra criptominers e rastreadores. 
+##### Atualmente, a internet está permeada por anúncios dos mais diversos. Por si só, não representam grandes problemas, mas a realidade não é tão simples. Não apenas empresas honestas criam anúncios digitais e mesmo a infraestrutura de empresas honestas pode ser comprometida por indivíduos maliciosos, sendo assim, casos de propagandas e redes de anúncios comprometidos para a disseminação de malwares são um problema real. Esse tipo de ataque, denominado malvertising, é especialmente difícil de ser detectado por um usuário comum. Mesmo que você mantenha bons hábitos de navegação, não se aventurando em sites escusos, quando comprometida, uma rede de anúncios pode disseminar malwares mesmo em sites legítimos, como os de notícias que você acessa todos os dias. 
 
-#### *Não armazenar senhas importantes nos navegadores
+##### Alguns navegadores contêm bloqueadores integrados, mas o usuário pode optar por instalar extensões. Adicionalmente, bloqueadores de anúncios mais completos proporcionam outros tipos de proteção, como contra criptominers e rastreadores. 
+
+#### *Não armazenar senhas nos navegadores
 
 ##### Alguns ataques utilizam as senhas salvas nos navegadores como fontes de coleta de informação. A praticidade, inclusive, abre espaço para atacantes desprovidos de elevado nível técnico, bastando, até mesmo, o simples uso local do computador desbloqueado por um membro da família ou colega de trabalho. Uma prática mais eficaz para a proteção de suas contas digitais é a utilização de uma gerenciador de senhas, tópico explorado no capítulo XX.
 
@@ -45,9 +88,9 @@
 
 ##### Como escrito anterirmente, as extensões instaladas nos navegadores apresentam posições privilegiadas para a realização de ataques. Com o potencial de alterar significativamente a navegação do usuário, apenas extensões confiáveis devem ser instaladas e mantidas. Uma lista com extensões confiáveis se encontra no apêndice A.  
 
-#### *Utilizar uma vpn
+#### *Utilizar uma vpn no navegador
 
-##### Mesmo não devendo ser considerada um fim em si mesma, uma vpn pode dificultar o vazamento de informações durante a navegação. Quanto mais abrangente, melhor, em outras palavras, prefira uma vpn a nível de sistema operacional do que uma limitada ao navegador. Dependendo de sua estratégia, no entento, o comentário anterior torna-se inválido (mais detalhes abaixo). Utilizar uma vpn, contudo, deve ser realizada com cautela. De maneira geral, se algo é gratuito, você faz parte do produto. Serviços de vpn gratuitos, como a hola vpn, são conhecidos por suas práticas, digamos, questionáveis (mais detalhes no apêndice E). Devemos levar em consideração o modo que a empresa ou projeto se sustenta financeiramente para verificarmos a confiabilidade das soluções apresentadas. 
+##### Mesmo não devendo ser considerada um fim em si mesma, uma vpn pode dificultar o vazamento de informações durante a navegação. Utilizar uma vpn, contudo, deve ser realizada com cautela. De maneira geral, se algo é gratuito, você faz parte do produto. Serviços de vpn gratuitos, como a hola vpn, são conhecidos por suas práticas, digamos, questionáveis (mais detalhes no apêndice E). Devemos levar em consideração o modo que a empresa ou projeto se sustenta financeiramente para verificarmos a confiabilidade das soluções apresentadas. 
 
 #### *Utilizar mais de um navegador
 
@@ -57,9 +100,19 @@
 
 ##### Utilizando corretamente essa estratégia, você poderá dificultar substancialmente a coleta de seus dados pelas grandes empresas de tecnologia, principalmente google e facebook, capazes de te rastrear por toda a internet.  
 
+### Sobre o modo anônimo
+
+##### Um mito comum sobre os navegadores trata da navegação anônima. O motivo da confusão inicia com o próprio nome. Na verdade, navegar em modo anônimo não torna sua navegação anônima. O modo anônimo de navegadores como o Chrome e o Firefox geralmente realiza as seguintes modificações:
+
+##### *Ao ser fechado, o navegador não armazena o histórico de navegação, cache, cookies e outros dados da sessão. Algumas informações permanecem, no entanto, como os sites favoritados.
+
+##### Em outras palavras, o seu endereço ip continua sendo públicamente conhecido, as características do navegador e do dispositivo continuam inalteradas; não modificando informações para a realização do fingerprinting , os cockies ainda apresentam potencial de te rastrear entre sites, os trackers presentes durante a navegação permanecem inalterados, seu provedor de internet e o adinistrador da rede ainda são capazes de monitorar sua navegação.
+
+##### A maior proteção de privacidade oferecida torna-se, então, voltada para as pessoas que utilizam computadores públicos ou compartilhados. Além do não armazenamento de certos dados na máquina do próprio usuário, nada é verdadeiramente alterado.
+
 ## Técnicas avançadas de navegação 
 
-Nessa seção, você entrará em contato com ferramentas e técnicas mais avançadas. Apenas a prática proporcionará a integração do aqui exposto em sua navegação diária. Quanto mais específica a situação, maiores as nuances encontradas pelos usuários.
+##### Nessa seção, você entrará em contato com ferramentas e técnicas mais avançadas. Apenas a prática proporcionará a integração do aqui exposto em sua navegação diária. Quanto mais específica a situação, maiores as nuances encontradas pelos usuários.
 
 #### *Utilizar um bloqueador de scripts
 
@@ -160,7 +213,7 @@ utilizar esse serviço
 
 ##### Na aba geral, na opção final "configurações de rede", clique em configurar conexões e ative o DNS sobre HTTPS. Uma opção razoável é a Claudflare.
 
-### about:config
+#### about:config
 
 ##### Na barra de endereços, digite about:config e aceite o risco
 
@@ -396,14 +449,33 @@ utilizar esse serviço
 
 ##### Envie como referer o site que você está visitando
 
+##### *security.ssl3.rsa_des_ede_sha = false
+
+##### Impede o uso de protocolos de segurança conhecidamente vulneráveis
+
+##### *security.ssl.require_safe_negociation = true
+
+##### Otimização da criptografia 
+
+##### *security.tls.version.min = 3
+
+##### Escolha da versão mínima de tls. 4 para maior segurança.
+
+##### *security.tls.enable_0rtt_data
+
+##### Mmelhoramento da privacidade na navegação
+
 
 ## Apêndice C (configurações Brave)
 
 ##### No canto superior direito, clique nos três riscos horizontais e procure por configurações
 
-## continuar
+#####
 
-## adicionar configurações para outros navegadores?
+#####
+
+#####
+
 
 ## Apêndice D (configurações Tor)
 
@@ -422,7 +494,9 @@ utilizar esse serviço
 
 ##### https://www.deviceinfo.me/
 
-##### https://www.amiunique.org/
+##### https://www.amiunique.org/ -> não conclusivo para randomização de browser fingerprint
+
+##### https://browserleaks.com/
 
 ##### https://brax.me/geo
 
@@ -433,18 +507,18 @@ utilizar esse serviço
 
 ## Apêndice F (glossário)
 
-##### Bloqueador de anúncios -> 
+##### Bloqueador de anúncios -> bloqueia propagandas digitais. Os pontos negativos dos anúncios vão desde o incomodo causado durante à navegação, capacidade de rastreamento e até disseminação de malware.
 
-##### Browser fingerprinting -> 
+##### Browser fingerprinting -> técnica moderna e avançada para rastreamento na internet. Utiliza dados sobre o navegador e o dispositivo do usuário para criar uma identificação precisa.
 
-##### Cryptominers -> 
+##### Cryptominers -> tipo de software malicioso que utiliza os recursos do seu sistema para minerar criptomoedas sem sua autorização.
 
-##### Malvertising -> 
+##### Malvertising -> utilização de anúncios digitais para a dissemição de softwares maliciosos. 
 
-##### Rastreadores -> 
+##### Rastreadores -> termo genérico para códigos com o propósito de rastrear os hábitos de navegação do usuário e suas preferências. 
 
-##### Script blocker -> 
+##### Script blocker -> bloqueador de scripts. Impede que scripts não autorizados executem ações não permitidas pelo usuário.
 
-##### Tor bridge ->
+##### Tor bridge -> método de entrada na rede tor através de endereços não públicos, dificultando, assim, a identificação dos usuários da rede.
 
-##### User agent ->
+##### User agent -> informação utilizada para a negociação de conteúdo com servidores, contendo informações sobre o navegador utilizado e o sistema operacional, por exemplo.
