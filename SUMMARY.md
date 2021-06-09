@@ -1,6 +1,6 @@
 # Table of contents
 
-* [PrivacyMap - Um caminho para privacidade.](README.md)
+* [PrivacyMap - Um caminho para a privacidade.](README.md)
 * [Sobre o Autor](sobre-o-autor.md)
 
 ## Regras
@@ -30,9 +30,9 @@
 
 ## Navegadores
 
-* [todo](navegadores/untitled.md)
+* [Introdução](navegadores/untitled.md)
 
 ## Dispositivos móveis
 
-* [todo](dispositivos-moveis/untitled.md)
+* [Em construção](dispositivos-moveis/untitled.md)
 

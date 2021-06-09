@@ -6,7 +6,7 @@ A missão do PrivacyMap é mostrar que existe um caminho para privacidade. O int
 
 Você pode ajudar na escrita desse livro! Para contribuir faça um _fork_ neste repositório, efetue as suas sugestões e envie um _pull request_ - [https://github.com/PrivacyMap/book/pulls](https://github.com/PrivacyMap/book/pulls)
 
-As contribuições serão **avaliadas** e caso aprovadas, serão refletidas nesse livro. 
+As contribuições serão **avaliadas** e caso aprovadas, serão refletidas nesse livro.
 
 ### Reportando Problemas
 
@@ -23,8 +23,6 @@ Se você gosta do nosso trabalho e utiliza livro do PrivacyMap, apoie finaceiram
 Além disso, não se esqueça de compartilhar o PrivacyMap e dê as outras pessoas a oportunidade de terem uma vida com mais privacidade.
 
 Não se esqueça de dar ⭐ no GitHub!
-
-
 
 Copyright © Vitor Pio 2021. Except where otherwise specified, the text on [PrivacyMap](https://github.com/PrivacyMap/book) by Vitor Pio is licensed under the [Creative Commons Attribution-ShareAlike License 4.0 \(International\) \(CC-BY-SA 4.0\)](https://creativecommons.org/licenses/by-sa/4.0/).
 
