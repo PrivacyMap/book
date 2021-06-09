@@ -18,7 +18,9 @@ Este livro não seria possível sem as contribuições da nossa comunidade! As p
 
 ### Ajude o PrivacyMap
 
-Se você gosta do nosso trabalho e utiliza livro do PrivacyMap, apoie finaceiramente! Toda quantia enviada é de extremo valor:[ ](https://liberapay.com/PrivacyMap/donate)[https://pt.liberapay.com/PrivacyMap/donate](https://pt.liberapay.com/PrivacyMap/donate)
+Se você gosta do nosso trabalho e utiliza livro do PrivacyMap, apoie finaceiramente! Toda quantia enviada é de extremo valor:[ ](https://liberapay.com/PrivacyMap/donate)
+
+* [Padrim](https://www.padrim.com.br/privacymap)
 
 Além disso, não se esqueça de compartilhar o PrivacyMap e dê as outras pessoas a oportunidade de terem uma vida com mais privacidade.
 
