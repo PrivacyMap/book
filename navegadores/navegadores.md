@@ -162,7 +162,7 @@ Melhor navegador para garantir o anonimato -&gt; Tor Browser
 
 **Habilite a opção não rastrear**
 
-**Segundo o próprio site da mozilla, "a maioria dos sites monitoram o comportamento de seus visitantes e depois vendem ou disponibilizam essas informações para outras empresas. Essas informações podem ser usadas para mostrar anúncios, produtos ou serviços mais relevantes para você. O Firefox tem um recurso chamado Não rastrear que informa aos sites visitados, anunciantes e outros provedores de conteúdo que você não quer que seu comportamento de navegação seja monitorado.Honrar esta configuração é opcional, os sites não são obrigados a respeitar."**
+**Segundo o próprio site da mozilla, "a maioria dos sites monitoram o comportamento de seus visitantes e depois vendem ou disponibilizam essas informações para outras empresas. Essas informações podem ser usadas para mostrar anúncios, produtos ou serviços mais relevantes para você. O Firefox tem um recurso chamado Não rastrear que informa aos sites visitados, anunciantes e outros provedores de conteúdo que você não quer que seu comportamento de navegação seja monitorado. Honrar esta configuração é opcional, os sites não são obrigados a respeitar."**
 
 **De qualquer forma, convém habilitar**
 
