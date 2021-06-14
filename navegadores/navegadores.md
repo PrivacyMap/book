@@ -162,9 +162,7 @@ Melhor navegador para garantir o anonimato -&gt; Tor Browser
 
 **Habilite a opção não rastrear**
 
-**Segundo o próprio site da mozila, "a maioria dos sites monitoram o comportamento de seus visitantes e depois vendem ou disponibilizam essas informações para outras empresas. Essas informações podem ser usadas para mostrar anúncios, produtos ou serviços mais relevantes para você. O Firefox tem um recurso chamado Não rastrear que informa aos sites visitados, anunciantes e outros provedores de conteúdo que você não quer que seu comportamento de navegação seja monitorado.**
-
-Honrar esta configuração é opcional, os sites não são obrigados a respeitar."
+**Segundo o próprio site da mozilla, "a maioria dos sites monitoram o comportamento de seus visitantes e depois vendem ou disponibilizam essas informações para outras empresas. Essas informações podem ser usadas para mostrar anúncios, produtos ou serviços mais relevantes para você. O Firefox tem um recurso chamado Não rastrear que informa aos sites visitados, anunciantes e outros provedores de conteúdo que você não quer que seu comportamento de navegação seja monitorado. Honrar esta configuração é opcional, os sites não são obrigados a respeitar."**
 
 **De qualquer forma, convém habilitar**
 
@@ -180,9 +178,7 @@ Honrar esta configuração é opcional, os sites não são obrigados a respeitar
 
 **Ainda na aba de privacidade e segurança, ative o modo somente HTTPS em todas as janelas, isso aumenta o uso da criptografia em sua navegação.**
 
-**Desabilite a Proteção contra conteúdo enganoso e softwares perigosos, pois o firefox realiza comunicações constantes com os servidores da google para poder**
-
-utilizar esse serviço
+**Desabilite a Proteção contra conteúdo enganoso e softwares perigosos, pois o firefox realiza comunicações constantes com os servidores da google para poder utilizar esse serviço.**
 
 **Na aba geral, na opção final "configurações de rede", clique em configurar conexões e ative o DNS sobre HTTPS. Uma opção razoável é a Claudflare.**
 
@@ -422,7 +418,7 @@ utilizar esse serviço
 
 **Envie como referer o site que você está visitando**
 
-**\*security.ssl3.rsa\_des\_ede\_sha = false**
+**\*security.ssl3.rsa\_des\_ede3\_sha = false**
 
 **Impede o uso de protocolos de segurança conhecidamente vulneráveis**
 
@@ -434,9 +430,9 @@ utilizar esse serviço
 
 **Escolha da versão mínima de tls. 4 para maior segurança.**
 
-**\*security.tls.enable\_0rtt\_data**
+**\*security.tls.enable\_0rtt\_data = false**
 
-**Melhoramento da privacidade na na**publicamente**vegação**
+**Melhoramento da privacidade na na vegação**
 
 ## Apêndice C \(configurações Brave\)
 
@@ -464,8 +460,6 @@ Quando iniciar o Tor Browser, clique no ícone do escudo, no canto superior dire
 * https://browserleaks.com/
 * https://brax.me/geo
 * https://ipleak.net
-* https://safetyholic.com/popular-free-vpn-hola-used-as-a-giant-botnet-selling-its-users-data/
-* https://www.techradar.com/news/networking/-hola-if-your-vpn-was-busted-selling-your-bandwidth-for-botnets-1295421
 
 ## Apêndice F \(glossário\)
 
