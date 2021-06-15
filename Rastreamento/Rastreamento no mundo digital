@@ -1,1 +1,56 @@
+### Rastreamento digital
+
+##### As técnicas de rastreamento estão avançando nos últimos anos. Novas tecnologias, como o html 5, possibilitaram novas maneiras de obtenção de dados dos usuários.
+Vamos iniciar com uma tecnologia mais antiga, com menor relevância nos rastreamentos mais sofisticados, mas que merece nossa atenção: cookies.
+
+##### Cookies são pequenos arquivos em seu computador que armazenam informações relevantes para a sua navegação. Alguns cookies são úteis para o usuário, como aqueles
+que guardam as preferências dos sites que visitamos com frequência ou os que guardam dados dos produtos em nosso carrinho, quando efetuamos alguma compra online.
+Não precisamos adicionar os produtos novamente, pois as informações de nossa sessão estão armazenadas no cookie.
+
+##### Alguns cookies, por outro lado, são utilizados para rastrear os hábitos de navegação do usuário para propósitos comerciais. Por si só, nada de errado. O problema
+surge por causa:
+
+##### *da falta de transparência do processo, com a maioria dos usuários desconhecendo as práticas adotadas;
+
+##### *da quantidade de informações coletadas, podendo ser suficientes para traçar um perfil completo dos interesses do usuário;
+
+##### *do armazenamento das informações coletadas por tempo desconhecido, por vezes, indeterminado;
+
+##### *do compartilhamento das informações coletadas com terceiros dos mais diversos, nem sempre bem intencionados.  
+
+##### Podemos dividir os cookies em:
+
+#### First-party cookies (mesma origem)
+
+##### Podem ser persistentes ou efêmeros. Apresentam menor preocupação quanto à privacidade, mas podem ser utilizados para rastreio e construção de perfil.
+Utilizados apenas pelo site de origem.
+
+#### Third-party cookies (de terceiros)
+
+##### Podem ser persistentes ou efêmeros. Acessados por sites que não os criaram, aumentando a capacidade de rastreamento frente aos de mesma origem. A
+transmissão das informações armazenadas no cookie não necessita de interação do usuário, bastando o site, com conteúdo de anunciantes e/ou de redes sociais,
+ser carregado.
+
+### Geolocalização
+
+##### Sua localização, para a privacidade, é uma das informações mais importantes disponíveis. Nos navegadores mais comuns, o pedido de permissão geralmente
+aparece em uma caixa de texto, no canto superior da tela, quando o navegador acessa um site que solicita saber sua localização. 
+
+##### Adicionalmente à criação de uma mapa 3D das ruas e cidades, projetos como o Google Street View tinham propósitos pouco conhecidos pelo público em geral.
+Um deles era o mapeamento, a nível global, das redes wifi. Por meio desse mapa global que associa localização com determinada rede, os browsers atuais têm a
+capacidade de saber a localização do usuário por meio da triangulação das redes próximas associadas ao seu endereço de ip. Usos para essa tecnologia incluem a
+praticidade da detecção de serviços próximos, como pizzarias ou outros estabelecimentos com delivery, porém, essa informação pode ser utilizada para compor perfis
+detalhados em bases de dados diversas. Se habilitado pelo usuário, a precisão desse método pode chegar a dois metros.
+
+
+
+
+
+
+
+
+
+
+
+
 
