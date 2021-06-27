@@ -191,8 +191,7 @@
 
 ##### Habilite a opção não rastrear
 
-##### Segundo o próprio site da mozila, "a maioria dos sites monitoram o comportamento de seus visitantes e depois vendem ou disponibilizam essas informações para outras empresas. Essas informações podem ser usadas para mostrar anúncios, produtos ou serviços mais relevantes para você. O Firefox tem um recurso chamado Não rastrear que informa aos sites visitados, anunciantes e outros provedores de conteúdo que você não quer que seu comportamento de navegação seja monitorado.
-Honrar esta configuração é opcional, os sites não são obrigados a respeitar."
+##### Segundo o próprio site da mozila, "a maioria dos sites monitoram o comportamento de seus visitantes e depois vendem ou disponibilizam essas informações para outras empresas. Essas informações podem ser usadas para mostrar anúncios, produtos ou serviços mais relevantes para você. O Firefox tem um recurso chamado Não rastrear que informa aos sites visitados, anunciantes e outros provedores de conteúdo que você não quer que seu comportamento de navegação seja monitorado. Honrar esta configuração é opcional, os sites não são obrigados a respeitar."
 
 ##### De qualquer forma, convém habilitar
 
@@ -208,8 +207,7 @@ Honrar esta configuração é opcional, os sites não são obrigados a respeitar
 
 ##### Ainda na aba de privacidade e segurança, ative o modo somente HTTPS em todas as janelas, isso aumenta o uso da criptografia em sua navegação.
 
-##### Desabilite a Proteção contra conteúdo enganoso e softwares perigosos, pois o firefox realiza comunicações constantes com os servidores da google para poder 
-utilizar esse serviço
+##### Desabilite a Proteção contra conteúdo enganoso e softwares perigosos, pois o firefox realiza comunicações constantes com os servidores da google para poder utilizar esse serviço
 
 ##### Na aba geral, desabilite o uso de configurações de desempenho recomendadas, bem como a aceleração de hardware. 
 
