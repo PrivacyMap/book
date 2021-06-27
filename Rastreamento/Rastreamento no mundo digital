@@ -42,15 +42,30 @@ capacidade de saber a localização do usuário por meio da triangulação das r
 praticidade da detecção de serviços próximos, como pizzarias ou outros estabelecimentos com delivery, porém, essa informação pode ser utilizada para compor perfis
 detalhados em bases de dados diversas. Se habilitado pelo usuário, a precisão desse método pode chegar a dois metros.
 
+### Mouse Fingerprinting e padrões de digitação
 
+##### O rastreamento do cursor do mouse ocorre com a coleta de dados por meio de softwares. O rastreio pode acontece com o uso de JavaScript, CSS, plugins ou
+softwares específicos. Essa tecnologia de rastreio proporciona a coleta:
 
+*da localização do ponteiro
+*dos cliques efetuados
+*do tempo em que se permanece em determinada área da página
+*da passagem do mouse por links e duração da passagem
+*do traçado completo do ponteiro
+*da correlação com o horário da ação
 
+##### Esse tipo de tecnologia permite a identificação de usuário previamente considerado anônimo, pois cada usuário tem uma maneira de interagir com o mouse e 
+páginas web, o que, ao longo do tempo, pode ser utiliado para criar um identificador. Desabilitar o javascript não inibe esse tipo de ataque, que pode ser
+realizado, por exemplo, por CSS.
 
+##### A identificação de usuários considerados anônimos também pode ocorrer por meio dos padrões de digitação. A velocidade, o tempo que a tecla fica pressionada,
+erros cometidos, probabilidade de ser destro ou canhoto, abreviações utilizadas, comprimento médio de frases, frequência no uso de palavras, pausas na digitação,
+dentre outros parâmetros, podem criar uma identidade única para cada pessoa, mesmo com a variabilidade natural da escrita ao longo do dia. 
 
+##### Uma contramedida é não realizar a digitação no navegador, mas em um bloco de notas, posteriormente copiando o texto. Outra alternativa é o bloqueio de
+scripts. Essas alternativas, no entanto, não são perfeitas, não eliminando o problema completamente. A tradução por serviços na web também não mitiga o 
+anteriormente descrito.
 
+##### Técnicas como essa podem ser utilizadas para identidicar um autor de um texto ou documento anônimo, sendo utilizada inteligência artificial e análise estatística. 
 
-
-
-
-
-
+##### Uma forma mais eficaz de mitigação é a cópia do estilo de escrita de outros autores.
