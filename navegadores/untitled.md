@@ -211,7 +211,9 @@ Honrar esta configuração é opcional, os sites não são obrigados a respeitar
 ##### Desabilite a Proteção contra conteúdo enganoso e softwares perigosos, pois o firefox realiza comunicações constantes com os servidores da google para poder 
 utilizar esse serviço
 
-##### Na aba geral, na opção final "configurações de rede", clique em configurar conexões e ative o DNS sobre HTTPS. Uma opção razoável é a Claudflare.
+##### Na aba geral, desabilite o uso de configurações de desempenho recomendadas, bem como a aceleração de hardware. 
+
+##### Ainda na aba geral, na opção final "configurações de rede", clique em configurar conexões e ative o DNS sobre HTTPS. Uma opção razoável é a Claudflare. 
 
 #### about:config
 
@@ -409,7 +411,7 @@ utilizar esse serviço
 
 ##### Desabilita notificações quando você clica
 
-##### *security.OCSP.enabled
+##### *security.OCSP.enabled = 0 
 
 ##### Desabilita o OCSP
 
@@ -461,16 +463,59 @@ utilizar esse serviço
 
 ##### Escolha da versão mínima de tls. 4 para maior segurança.
 
-##### *security.tls.enable_0rtt_data
+##### *security.tls.enable_0rtt_data = true
 
-##### Mmelhoramento da privacidade na navegação
+##### Melhoramento da privacidade na navegação
 
+##### *identity.fxaccounts.enabled = false
+
+##### Desabilita a conta do Firefox
+
+##### *pdfjs.enableScripting = false
+
+##### Desabilita o javascript ao abrir arquivos em PDF
+
+##### *media.video_stats.enabled = false 
+
+##### Reduz a capacidade de identificação digital, desabilitando estatísticas de vídeo
+
+##### *media.webspeech.synth.enabled = false
+
+##### Desabilita o Text-to-Speech da Web Speech API
+
+##### *browser.zoom.siteSpecific = false
+
+##### Zoom específico para sites não são guardados
+
+##### *network.proxy.socks_remote_dns = true
+
+##### Obriga o proxy para pesquisas DNS quando na utilização do SOCKS
+
+##### *dom.disable_window_move_resize = true
+
+##### Previne que scripts movam ou mudem o tamanho de janelas 
+
+##### *browser.link.open_newwindow = 3
+
+##### Links abertos em novas abas em vez de novas janelas, prevenindo vazamentos da resuloção real
+
+##### *browser.link.open_newwindow.restriction = 0
+
+##### Links abertos em novas abas em vez de novas janelas, prevenindo vazamentos da resuloção real
+
+##### *full-screen-api.enabled = false
+
+##### Desabilita a Fullscreen API, prevenindo vazamentos da resolução real 
+
+##### *browser.sessionstore.resume_from_crash = false
+
+##### Desabilita a restauração de sessão interrompida por crash
 
 ## Apêndice C (configurações Brave)
 
 ##### No canto superior direito, clique nos três riscos horizontais e procure por configurações
 
-#####
+##### por fazer
 
 #####
 
