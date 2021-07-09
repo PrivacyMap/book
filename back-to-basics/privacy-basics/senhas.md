@@ -8,7 +8,11 @@ Os gerenciadores de senhas são a solução para a reciclagem de senhas. Estes a
 
 Atualmente existem diversas senhas que já foram expostas devido aos recorrentes vazamentos de dados. Diversos bancos de dados com milhares de usuários já foram expostos publicamente e provavelmente alguns dos seus dados já estão públicos.
 
-Neste capítulo sobre senhas vamos iniciar um _checklist_  para ter segurança e privacidade online. 
+## Autenticação: Checklist de Segurança e Privacidade
+
+| Dicas | Prioridade | Detalhes |
+| :--- | :--- | :--- |
+| Não reutilize senhas | Recomendado | Se você reutilizar senhas para todos os seus cadastros, caso haja um vazamento de dados, um criminoso poderia ter acesso as suas outras contas. Geralmente os ataques as senhas são automatizados e feitos em larga escala chamados de _Credential Stuffing_. Esses ataques são mais comuns do que se imagina e se proteger é bem simples. **Use uma senha diferente para cada uma de suas contas online.** |
 
 
 
