@@ -454,12 +454,12 @@ Quando iniciar o Tor Browser, clique no ícone do escudo, no canto superior dire
 
 ## Apêndice E \(links úteis\)
 
-* https://coveryourtracks.eff.org/
-* https://www.deviceinfo.me/
-* https://www.amiunique.org/ -&gt; não conclusivo para randomização de browser fingerprint
-* https://browserleaks.com/
-* https://brax.me/geo
-* https://ipleak.net
+* [https://coveryourtracks.eff.org/](https://coveryourtracks.eff.org/)
+* [https://www.deviceinfo.me/](https://www.deviceinfo.me/)
+* [https://www.amiunique.org/](https://www.amiunique.org/) -&gt; não conclusivo para randomização de browser fingerprint
+* [https://browserleaks.com/](https://browserleaks.com/)
+* [https://brax.me/geo](https://brax.me/geo)
+* [https://ipleak.net](https://ipleak.net)
 
 ## Apêndice F \(glossário\)
 
