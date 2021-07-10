@@ -1,6 +1,10 @@
 ### Rastreamento digital
 
-##### As técnicas de rastreamento estão avançando nos últimos anos. Novas tecnologias, como o html 5, possibilitaram novas maneiras de obtenção de dados dos usuários.
+##### No mundo em que vivemos, é imposssível obter privacidade e anonimato absolutos, sendo recomendado a criação de múltiplas identidades e a posterior alocação compartimentalizada.
+
+##### Abaixo, serao apresentadas as principais formas de rastreamento no mundo digital, não sendo, portanto, uma revisão integrativa sobre o tema.
+
+##### As técnicas de rastreamento estão avançando nos últimos anos. Novas tecnologias, como o  HTML5, possibilitaram novas maneiras de obtenção de dados dos usuários.
 Vamos iniciar com uma tecnologia mais antiga, com menor relevância nos rastreamentos mais sofisticados, mas que merece nossa atenção: cookies.
 
 ##### Cookies são pequenos arquivos em seu computador que armazenam informações relevantes para a sua navegação. Alguns cookies são úteis para o usuário, como aqueles
@@ -31,6 +35,20 @@ Utilizados apenas pelo site de origem.
 transmissão das informações armazenadas no cookie não necessita de interação do usuário, bastando o site, com conteúdo de anunciantes e/ou de redes sociais,
 ser carregado.
 
+### Endereços IP 
+
+##### Os endereços IP (internet protocol) são os mais utilizados para o rastreamento na internet. Por meio dessa informação, pode(m) ser:
+
+##### revelada a localização física aproximada;
+
+##### auxiliada a identificação de dispositivos de hardware utilizados na navegação, como modems ou celulares;
+
+##### reveladas as atividades peer-to-peer (P2P) vinculadas ao endereço em questão;
+
+##### rastreados fragmentos em servidores web diversos, possivelmente construindo um perfil de navegação e identificação.
+
+##### Pode-se utilizar um serviço de VPN confiável como: Mullvad VPN, IVPN e ProtonVPN, ou a rede Tor.
+
 ### Geolocalização
 
 ##### Sua localização, para a privacidade, é uma das informações mais importantes disponíveis. Nos navegadores mais comuns, o pedido de permissão geralmente
@@ -42,7 +60,7 @@ capacidade de saber a localização do usuário por meio da triangulação das r
 praticidade da detecção de serviços próximos, como pizzarias ou outros estabelecimentos com delivery, porém, essa informação pode ser utilizada para compor perfis
 detalhados em bases de dados diversas. Se habilitado pelo usuário, a precisão desse método pode chegar a dois metros.
 
-### Mouse Fingerprinting e padrões de digitação
+### Mouse fingerprinting e padrões de digitação
 
 ##### O rastreamento do cursor do mouse ocorre com a coleta de dados por meio de softwares. O rastreio pode acontece com o uso de JavaScript, CSS, plugins ou
 softwares específicos. Essa tecnologia de rastreio proporciona a coleta:
@@ -69,3 +87,48 @@ anteriormente descrito.
 ##### Técnicas como essa podem ser utilizadas para identidicar um autor de um texto ou documento anônimo, sendo utilizada inteligência artificial e análise estatística. 
 
 ##### Uma forma mais eficaz de mitigação é a cópia do estilo de escrita de outros autores.
+
+### Endereços MAC
+
+##### O endereço Media Access Control (MAC) é um endereço de hardware vinculado às interfaces de rede, como conexões por cabo ou sem fio. Geralmente, um único computador apresenta diversos endereços MAC, um para cada interface.
+Dispositivos conectados na mesma rede, ou softwares instalados nesses dispositivos, têm a capacidade de identificar os endereços MAC de todos os demais dispositivos conectadoa à rede, proporcionando a identificação de uso de uma determinada rede por um dispositivo em específico.
+Ao longo do tempo, e com a correlação de imagens de câmeras de segurança, é possível, para um adversário tecnologicamente capacitado, identificar as redes às quais o dispositivo se conecta com regularidade e correlacionar com o usuário que realiza essas conexões.
+
+##### Uma contramedida é a randomização do endereço MAC. No linux, pode-se usar o pacote "macchanger", com os seguintes comando no terminal:
+
+##### *ifconfig
+
+##### *sudo macchanger -r (interface que terá o endereço alterado)
+
+### Beacons
+
+##### Beacons são rastreadores presentes em páginas web, anúncios e mensagens de email, capazes de capturar informações como o horário relacionada à abertura do email ou website.
+Comumente consistem de pequenas imagens de 1 x 1 pixel, não sendo identificados pelos usuários. Têm capacidade de se conectar a servidores de terceiros, que implantam cookies no navegador do usuário. Esse cookie é reenviado ao servidor quando o usuário navega para outro site que também contenha beacons do mesmo serviço,
+o que, ao lngo do tempo, cria um perfil contendo uma grande proporção de hábitos de navegação. 
+
+##### A contramedida mais efetiva é a utilização do Tor Browser.
+
+### History sniffing
+
+##### Na maioria dos navegadores, o histórico e o cache são compartilhados, o que abre margem para ataques de sniffing. Comumente, links visitados são apresentados de formas diferentes dos não visitados. Caso um site com código javascript malicioso seja acessado pelo usuário, o atacante pode criar links para sites diversos em regiões ocultas da página,
+utilizando a interface DOM do navegador para inspecionar a forma na qual os links são apresentados, possibilitando revelar os sites previamente acessados. 
+
+##### O uso de CSS (CSS Stylesheets) também pode agravar o problema. A contramedida mais efetiva é a utilização do Tor Browser.
+
+### Session replay scripts
+
+##### Alguns javascripts são denominados “session replay”, ou de reprodução de sessão. Com capacidade de armazenar movimentos do ponteiro, rolagem da página, teclas pressoinadas, dentre outros; possibilita a completa reprodução da sessão do usuário,
+com essas informações sendo enviadas para servidores de terceiros. Desabilitar o javascript previne completaemnte esse tipo de ataque. 
+
+### Ultrasssom
+
+##### Por meio de ultrassom, novas técnicas de rastreamento estão surgindo no mercado tecnológico.
+
+##### Um cenário possível é a exibição de propagandas na internet, rádio ou televisão com áudio na frequência ultrassônica oculto, interceptados pelos microfones dos smartphones presentes no ambiente. Caso aplicativos capazes de interpretar as informações presentes no áudio estejam instalados no aparelho móvel,
+é possível relacionar os hábitos de consumo de mídia com a identidade do usuário do aparelho celular. 
+
+##### Outra possibilidade é a utilização de ultrassom em anúncios na web, relacionando hábitos de navegação à identidade de usuários de outros dispositivos inteligentes, integrando o rastreamento entre esses dispositivos. 
+
+##### A utilização de ultrassom também pode revelar as identidades de pessoas pŕoximas ao usuário, bem como a frequência de interação. 
+
+##### Uma contramedida é a utilização de aplicativos open source e a restrição de acesso ao microfone aos aplicativos que realmente necesssitam dessa permissão. Uma medida mais extrema é a remoção física dos componentes de hardware em questão. 
