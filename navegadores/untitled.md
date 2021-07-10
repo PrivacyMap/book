@@ -174,7 +174,7 @@
 
 ##### NoScript 
 
-##### AdGuard VPN
+##### AdGuard VPN -> limitada no plano gratuito
 
 
 ### Apêndice B (configurações Firefox) 
@@ -211,7 +211,7 @@
 
 ##### Na aba geral, desabilite o uso de configurações de desempenho recomendadas, bem como a aceleração de hardware. 
 
-##### Ainda na aba geral, na opção final "configurações de rede", clique em configurar conexões e ative o DNS sobre HTTPS. Uma opção razoável é a Claudflare. 
+##### Ainda na aba geral, na opção final "configurações de rede", clique em configurar conexões e ative o DNS sobre HTTPS. Uma opção razoável é a Cloudflare. 
 
 #### about:config
 
@@ -513,12 +513,15 @@
 
 ##### No canto superior direito, clique nos três riscos horizontais e procure por configurações
 
-##### por fazer
+##### Desabilite: 
 
-#####
+##### permitir botões de login do google em sites de terceiros;
 
-#####
+##### permitir logins do facebook e publicações incorporadas;
 
+##### permitir tuítes incorporados do twitter;
+
+##### Altere o mecanismo de pesquisa padrão para startpage, qwant, duckduckgo ou brave search.
 
 ## Apêndice D (configurações Tor)
 
