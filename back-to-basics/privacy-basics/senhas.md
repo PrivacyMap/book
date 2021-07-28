@@ -15,7 +15,7 @@ Atualmente existem diversas senhas que já foram expostas devido aos recorrentes
     <tr>
       <th style="text-align:left">Dicas</th>
       <th style="text-align:center">Prioridade</th>
-      <th style="text-align:left">Detalhes</th>
+      <th style="text-align:left">Observa&#xE7;&#xF5;es</th>
       <th style="text-align:center">Categoria</th>
     </tr>
   </thead>
