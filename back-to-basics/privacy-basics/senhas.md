@@ -84,10 +84,11 @@ Atualmente existem diversas senhas que já foram expostas devido aos recorrentes
       <td style="text-align:center">Seguran&#xE7;a &amp; Privacidade</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:center"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:center"></td>
+      <td style="text-align:left">Use um Gerenciador de Senhas Offline</td>
+      <td style="text-align:center">Avan&#xE7;ado</td>
+      <td style="text-align:left">Para mais seguran&#xE7;a utilize um gerenciador de senhas offline criptografado
+        para ter todo o controle sobre suas senhas.</td>
+      <td style="text-align:center">Seguran&#xE7;a++</td>
     </tr>
   </tbody>
 </table>
