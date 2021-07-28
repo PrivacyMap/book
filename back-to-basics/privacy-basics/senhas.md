@@ -10,11 +10,72 @@ Atualmente existem diversas senhas que já foram expostas devido aos recorrentes
 
 ## Checklist de Segurança e Privacidade
 
-| Dicas | Prioridade | Detalhes |
-| :--- | :--- | :--- |
-| Não reutilize senhas | Recomendado | Se você reutilizar senhas para todos os seus cadastros, caso haja um vazamento de dados, um criminoso poderia ter acesso as suas outras contas. Geralmente os ataques as senhas são automatizados e feitos em larga escala chamados de _Credential Stuffing_. Esses ataques são mais comuns do que se imagina e se proteger é bem simples. **Use uma senha diferente para cada uma de suas contas online.** |
-| Use senhas complexas | Recomendado |  |
-| Use um Gerenciador de Senhas | Recomendado |  |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Dicas</th>
+      <th style="text-align:center">Prioridade</th>
+      <th style="text-align:left">Detalhes</th>
+      <th style="text-align:center">Categoria</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">N&#xE3;o reutilize senhas</td>
+      <td style="text-align:center">Recomendado</td>
+      <td style="text-align:left">Se voc&#xEA; reutilizar senhas para todos os seus cadastros, caso haja
+        um vazamento de dados, um criminoso poderia ter acesso as suas outras contas.
+        Geralmente os ataques as senhas s&#xE3;o automatizados e feitos em larga
+        escala chamados de <em>Credential Stuffing</em>. Esses ataques s&#xE3;o
+        mais comuns do que se imagina e se proteger &#xE9; bem simples. <b>Use uma senha diferente para cada uma de suas contas online.</b>
+      </td>
+      <td style="text-align:center">Seguran&#xE7;a</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Use senhas complexas</td>
+      <td style="text-align:center">Recomendado</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:center">Seguran&#xE7;a</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Use um Gerenciador de Senhas</td>
+      <td style="text-align:center">Recomendado</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:center">Seguran&#xE7;a</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Evite usar dicas nos cadastros para lembrar sua senha</td>
+      <td style="text-align:center">Recomendado</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:center">Seguran&#xE7;a</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Atualize suas senhas regularmente</td>
+      <td style="text-align:center">Opcional</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:center">Seguran&#xE7;a</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">N&#xE3;o salve suas senhas nos navegadores</td>
+      <td style="text-align:center">Opcional</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:center">Seguran&#xE7;a</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Monitore vazamentos de dados</td>
+      <td style="text-align:center">Opcional</td>
+      <td style="text-align:left">
+        <p>Regularmente voc&#xEA; pode acessar o site <a href="https://haveibeenpwned.com/">https://haveibeenpwned.com/</a> para
+          checar se houveram vazamentos de dados que podem incluir seu e-mail e sua
+          senha. Comentamos <a href="https://youtu.be/i2SRi335cDA">neste v&#xED;deo</a> sobre
+          como configurar RSS para receber os &#xFA;ltimos vazamentos de dados.</p>
+        <p>Existem servi&#xE7;os como o Firefox Monitor que podem tamb&#xE9;m te
+          auxiliar no monitoramento.</p>
+      </td>
+      <td style="text-align:center">Seguran&#xE7;a &amp; Privacidade</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Ferramentas recomendadas
 
