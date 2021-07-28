@@ -50,6 +50,15 @@ Atualmente existem diversas senhas que já foram expostas devido aos recorrentes
       <td style="text-align:center">Seguran&#xE7;a</td>
     </tr>
     <tr>
+      <td style="text-align:left">N&#xE3;o use PIN de 4 d&#xED;gitos</td>
+      <td style="text-align:center">Recomendado</td>
+      <td style="text-align:left">N&#xE3;o utilize senhas de 4 digitos em qualquer plataforma (celular,
+        computador). Lembre-se que quanto menor sua senha, mais f&#xE1;cil de adivinhar
+        em um ataque de <em>brute-force.</em>
+      </td>
+      <td style="text-align:center">Seguran&#xE7;a</td>
+    </tr>
+    <tr>
       <td style="text-align:left">Atualize suas senhas regularmente</td>
       <td style="text-align:center">Opcional</td>
       <td style="text-align:left"></td>
@@ -73,6 +82,12 @@ Atualmente existem diversas senhas que já foram expostas devido aos recorrentes
           auxiliar no monitoramento.</p>
       </td>
       <td style="text-align:center">Seguran&#xE7;a &amp; Privacidade</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:center"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:center"></td>
     </tr>
   </tbody>
 </table>
