@@ -10,3 +10,17 @@ Este pode ser o seu ponto de partida para sua caminhada rumo a privacidade e nã
 
 Neste capítulo vamos abordar o **necessário** para todos que procuram ter segurança e privacidade online!
 
+{% page-ref page="senhas.md" %}
+
+{% page-ref page="autenticacao-de-dois-fatores.md" %}
+
+{% page-ref page="e-mails.md" %}
+
+{% page-ref page="aplicativos-de-mensagens-instantaneas.md" %}
+
+{% page-ref page="smartphones-telefones-celular.md" %}
+
+{% page-ref page="computadores.md" %}
+
+
+
