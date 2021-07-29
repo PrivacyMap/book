@@ -1,4 +1,4 @@
-# Smartphones \(Telefones Celular\)
+# Smartphones \(Telefone Celular\)
 
 //todo
 

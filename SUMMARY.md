@@ -16,7 +16,7 @@
   * [Autenticação de dois fatores](back-to-basics/privacy-basics/autenticacao-de-dois-fatores.md)
   * [E-mails](back-to-basics/privacy-basics/e-mails.md)
   * [Aplicativos de Mensagens Instantâneas](back-to-basics/privacy-basics/aplicativos-de-mensagens-instantaneas.md)
-  * [Smartphones \(Telefones Celular\)](back-to-basics/privacy-basics/smartphones-telefones-celular.md)
+  * [Smartphones \(Telefone Celular\)](back-to-basics/privacy-basics/smartphones-telefones-celular.md)
   * [Computadores](back-to-basics/privacy-basics/computadores.md)
 
 ## Softwares

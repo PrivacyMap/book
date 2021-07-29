@@ -434,11 +434,11 @@ Melhor navegador para garantir o anonimato -&gt; Tor Browser
 
 **Melhoramento da privacidade na na vegação**
 
-## Apêndice C \(configurações Brave\)
+### Apêndice C \(configurações Brave\)
 
 No canto superior direito, clique nos três riscos horizontais e procure por configurações
 
-## Apêndice D \(configurações Tor\)
+### Apêndice D \(configurações Tor\)
 
 Como o Tor Browser tenta garantir anonimato por meio da generalização da identidade virtual, você deve manter as alterações no nível mínimo.
 
@@ -452,7 +452,7 @@ Quando iniciar o Tor Browser, clique no ícone do escudo, no canto superior dire
 
 **Em construção...**
 
-## Apêndice E \(links úteis\)
+### Apêndice E \(links úteis\)
 
 * [https://coveryourtracks.eff.org/](https://coveryourtracks.eff.org/)
 * [https://www.deviceinfo.me/](https://www.deviceinfo.me/)
@@ -461,7 +461,7 @@ Quando iniciar o Tor Browser, clique no ícone do escudo, no canto superior dire
 * [https://brax.me/geo](https://brax.me/geo)
 * [https://ipleak.net](https://ipleak.net)
 
-## Apêndice F \(glossário\)
+### Apêndice F \(glossário\)
 
 **Bloqueador de anúncios:** bloqueia propagandas digitais. Os pontos negativos dos anúncios vão desde o incomodo causado durante à navegação, capacidade de rastreamento e até disseminação de malware.
 
