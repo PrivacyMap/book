@@ -63,14 +63,17 @@ Siga esse _checklist_  para o gerenciamento adequado de senhas.
         <p>Caso seja obrigat&#xF3;rio o uso das dicas, coloque respostas complexas
           e aleat&#xF3;rias.N&#xE3;o utilize senhas de 4 d&#xED;gitos em qualquer
           plataforma (celular, computador). Lembre-se que quanto menor sua senha,
-          mais f&#xE1;cil de adivinhar em um ataque de</p>
+          mais f&#xE1;cil de adivinhar em um ataque de <em>brute-force.</em>
+        </p>
       </td>
       <td style="text-align:center">Seguran&#xE7;a</td>
     </tr>
     <tr>
       <td style="text-align:left">N&#xE3;o use PIN de 4 d&#xED;gitos</td>
       <td style="text-align:center">Recomendado</td>
-      <td style="text-align:left"><em>brute-force.</em>
+      <td style="text-align:left">N&#xE3;o utilize senhas de 4 digitos em qualquer plataforma (celular,
+        computador). Lembre-se que quanto menor sua senha, mais f&#xE1;cil de adivinhar
+        em um ataque de <em>brute-force.</em>
       </td>
       <td style="text-align:center">Seguran&#xE7;a</td>
     </tr>
