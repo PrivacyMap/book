@@ -40,27 +40,37 @@ Siga esse _checklist_  para o gerenciamento adequado de senhas.
     <tr>
       <td style="text-align:left">Use senhas complexas</td>
       <td style="text-align:center">Recomendado</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Quanto mais complexa, maior a dificuldade para a realiza&#xE7;&#xE3;o
+        de um ataque de <em>brute-force.</em>
+      </td>
       <td style="text-align:center">Seguran&#xE7;a</td>
     </tr>
     <tr>
       <td style="text-align:left">Use um Gerenciador de Senhas</td>
       <td style="text-align:center">Recomendado</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Chega de anotar senhas em um papelzinho ou colocar as mesmas senhas em
+        todos os Apps.</td>
       <td style="text-align:center">Seguran&#xE7;a</td>
     </tr>
     <tr>
       <td style="text-align:left">Evite usar dicas nos cadastros para lembrar sua senha</td>
       <td style="text-align:center">Recomendado</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p>&quot;Qual o nome do seu primeiro pet?&quot;, &quot;Onde voc&#xEA; estudava
+          quando crian&#xE7;a?&quot;</p>
+        <p>Com t&#xE9;cnicas corretas, &#xE9; poss&#xED;vel recuperar as suas informa&#xE7;&#xF5;es
+          online e adivinhar as respostas</p>
+        <p>Caso seja obrigat&#xF3;rio o uso das dicas, coloque respostas complexas
+          e aleat&#xF3;rias.N&#xE3;o utilize senhas de 4 d&#xED;gitos em qualquer
+          plataforma (celular, computador). Lembre-se que quanto menor sua senha,
+          mais f&#xE1;cil de adivinhar em um ataque de</p>
+      </td>
       <td style="text-align:center">Seguran&#xE7;a</td>
     </tr>
     <tr>
       <td style="text-align:left">N&#xE3;o use PIN de 4 d&#xED;gitos</td>
       <td style="text-align:center">Recomendado</td>
-      <td style="text-align:left">N&#xE3;o utilize senhas de 4 digitos em qualquer plataforma (celular,
-        computador). Lembre-se que quanto menor sua senha, mais f&#xE1;cil de adivinhar
-        em um ataque de <em>brute-force.</em>
+      <td style="text-align:left"><em>brute-force.</em>
       </td>
       <td style="text-align:center">Seguran&#xE7;a</td>
     </tr>
