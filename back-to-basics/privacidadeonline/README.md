@@ -1,7 +1,7 @@
 ---
 description: >-
   O necessário para qualquer modelagem de ameaças. Não sabe de onde começar?
-  Esse é o seu primeiro ponto de partida.
+  Este é o seu primeiro ponto de partida.
 ---
 
 # Privacidade para Iniciantes
