@@ -138,3 +138,6 @@ com essas informações sendo enviadas para servidores de terceiros. Desabilitar
 ##### A utilização de ultrassom também pode revelar as identidades de pessoas pŕoximas ao usuário, bem como a frequência de interação. 
 
 ##### Uma contramedida é a utilização de aplicativos open source e a restrição de acesso ao microfone aos aplicativos que realmente necesssitam dessa permissão. Uma medida mais extrema é a remoção física dos componentes de hardware em questão. 
+
+##### Existem, ainda, outros métodos de rastreio, porém, não utilizados com tanta frequência, como ataques de correlação utilizados em conexões efetuadas por meio de redes anônimas, como o TOR. Mesmo alguns dos mencionados nesse capítulo não apresentam uso massificado. Apenas adversários mais sofisticados detêm
+a capacidade necessária para realizar os mais sofisticados. Quanto mais complexo for o método, menos agentes serão capazes de executar as ações necessárias.
