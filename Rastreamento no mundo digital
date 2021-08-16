@@ -2,7 +2,7 @@
 
 ##### No mundo em que vivemos, é imposssível obter privacidade e anonimato absolutos, sendo recomendado a criação de múltiplas identidades e a posterior alocação compartimentalizada.
 
-##### Abaixo, serao apresentadas as principais formas de rastreamento no mundo digital, não sendo, portanto, uma revisão integrativa sobre o tema.
+##### Abaixo, serão apresentadas as principais formas de rastreamento no mundo digital, não sendo, portanto, uma revisão integrativa sobre o tema.
 
 ##### As técnicas de rastreamento estão avançando nos últimos anos. Novas tecnologias, como o  HTML5, possibilitaram novas maneiras de obtenção de dados dos usuários.
 Vamos iniciar com uma tecnologia mais antiga, com menor relevância nos rastreamentos mais sofisticados, mas que merece nossa atenção: cookies.
@@ -59,6 +59,12 @@ Um deles era o mapeamento, a nível global, das redes wifi. Por meio desse mapa 
 capacidade de saber a localização do usuário por meio da triangulação das redes próximas associadas ao seu endereço de ip. Usos para essa tecnologia incluem a
 praticidade da detecção de serviços próximos, como pizzarias ou outros estabelecimentos com delivery, porém, essa informação pode ser utilizada para compor perfis
 detalhados em bases de dados diversas. Se habilitado pelo usuário, a precisão desse método pode chegar a dois metros.
+
+### Rastreio por identificadores em URLs
+
+##### Anunciantes e empresas utilizam parâmetros nos endereços web para a coleta de informações acerca do grau de sucesso de seus anúncios. Adicionalemnte, esse
+tipo de rastreamento pode ocorrer quando um website adiciona identificadores únicos às URLs antes do usuário deixar o site. Scripts nos sites de destino podem,
+então, ler o identificador, obtendo conhecimento sobre parte da navegação do usuário. 
 
 ### Mouse fingerprinting e padrões de digitação
 
@@ -132,3 +138,6 @@ com essas informações sendo enviadas para servidores de terceiros. Desabilitar
 ##### A utilização de ultrassom também pode revelar as identidades de pessoas pŕoximas ao usuário, bem como a frequência de interação. 
 
 ##### Uma contramedida é a utilização de aplicativos open source e a restrição de acesso ao microfone aos aplicativos que realmente necesssitam dessa permissão. Uma medida mais extrema é a remoção física dos componentes de hardware em questão. 
+
+##### Existem, ainda, outros métodos de rastreio, porém, não utilizados com tanta frequência, como ataques de correlação utilizados em conexões efetuadas por meio de redes anônimas, como o TOR. Mesmo alguns dos mencionados nesse capítulo não apresentam uso massificado. Apenas adversários mais sofisticados detêm
+a capacidade necessária para realizar os mais sofisticados. Quanto mais complexo for o método, menos agentes serão capazes de executar as ações necessárias.

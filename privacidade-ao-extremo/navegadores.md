@@ -174,15 +174,21 @@ description: 'Navegadores, sua principal ferramenta para exploração da interne
 
 #### Extensões recomendadas \(não utilize todas de uma vez\)
 
-**uBlock Origin**
-
 **AdGuard AdBlocker**
+
+**AdGuard VPN -&gt; limitada no plano gratuito**
+
+**Cookie AutoDelete**
 
 **Decentraleyes**
 
+**HTTPS Everywhere**
+
 **NoScript**
 
-**AdGuard VPN -&gt; limitada no plano gratuito**
+**Privacy Badger** 
+
+**uBlock Origin**
 
 ### Apêndice B \(configurações Firefox\)
 
@@ -219,6 +225,8 @@ description: 'Navegadores, sua principal ferramenta para exploração da interne
 **Na aba geral, desabilite o uso de configurações de desempenho recomendadas, bem como a aceleração de hardware.**
 
 **Ainda na aba geral, na opção final "configurações de rede", clique em configurar conexões e ative o DNS sobre HTTPS. Uma opção razoável é a Cloudflare.**
+
+**Em configurações, pesquise por "fontes". Clique em "avançado" e desmarque a opção de permitir com que as páginas web escolham suas próprias fontes. Essa medida reduz o grau de particularidade da lista de fontes usada para compor sua impressão digital.**
 
 #### about:config
 
@@ -570,4 +578,3 @@ description: 'Navegadores, sua principal ferramenta para exploração da interne
 **Tor bridge -&gt; método de entrada na rede tor através de endereços não públicos, dificultando, assim, a identificação dos usuários da rede.**
 
 **User agent -&gt; informação utilizada para a negociação de conteúdo com servidores, contendo informações sobre o navegador utilizado e o sistema operacional, por exemplo.**
-
