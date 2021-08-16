@@ -20,15 +20,16 @@
   * [Smartphones \(Telefone Celular\)](back-to-basics/privacidadeonline/smartphones-telefones-celular.md)
   * [Computadores](back-to-basics/privacidadeonline/computadores.md)
 
-## Privacidade ao Extremo
+## Tópicos Avançados
 
-* [Sistemas Operacionais](privacidade-ao-extremo/untitled-2.md)
-* [Smartphones](privacidade-ao-extremo/untitled-1.md)
-* [Navegadores](privacidade-ao-extremo/navegadores.md)
-* [E-mails](privacidade-ao-extremo/e-mails.md)
-* [Pagamentos](privacidade-ao-extremo/pagamentos.md)
-* [VPN](privacidade-ao-extremo/vpn.md)
-* [Tor & Redes Descentralizadas](privacidade-ao-extremo/tor-and-redes-descentralizadas.md)
-* [Bloqueadores de Sinais](privacidade-ao-extremo/bloqueadores-de-sinais.md)
-* [Armazenamento de dados & Backup](privacidade-ao-extremo/armazenamento-de-dados-and-backup.md)
+* [Sistemas Operacionais](topicos-avancados/untitled-2.md)
+* [Smartphones](topicos-avancados/smartphones/README.md)
+  * [Xiaomi](topicos-avancados/smartphones/xiaomi.md)
+* [Navegadores](topicos-avancados/navegadores.md)
+* [E-mails](topicos-avancados/e-mails.md)
+* [Pagamentos](topicos-avancados/pagamentos.md)
+* [VPN](topicos-avancados/vpn.md)
+* [Tor & Redes Descentralizadas](topicos-avancados/tor-and-redes-descentralizadas.md)
+* [Bloqueadores de Sinais](topicos-avancados/bloqueadores-de-sinais.md)
+* [Armazenamento de dados & Backup](topicos-avancados/armazenamento-de-dados-and-backup.md)
 
