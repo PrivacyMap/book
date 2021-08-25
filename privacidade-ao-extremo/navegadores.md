@@ -178,6 +178,8 @@ description: 'Navegadores, sua principal ferramenta para exploração da interne
 
 **AdGuard VPN -&gt; limitada no plano gratuito**
 
+**ClearURLs**
+
 **Cookie AutoDelete**
 
 **Decentraleyes**

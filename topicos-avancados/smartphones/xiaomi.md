@@ -20,6 +20,8 @@ Por fim, tenha uma senha forte para entrar em seu celular, não algo como "senha
 
 Ainda em privacidade, desative o "encontre meu dispositivo" e desabilite o "play protect".
 
+Desligue as frequências de rádio que não estiver utilizando, como os dados móveis, bluetooth, redes sem fio e localização. Essas medidas ajudam a reduzir a quantidade de informações compartilhadas por seu dispositivo, contudo, não inibem o problema completamente, pois algumas conexões não necessitam da permissão do usuário para ocorrer.
+
 Em "sobre o telefone", clique repetidamente em "versão do miui", até obter status de desenvolvedor. Volte às configurações e vá em "configurações adicionais", e, em seguida, em "opções de desenvolvedor". Habilite a depuração por USB. Permita e aceite.
 
 Será utilizado o software ADB para a remoção de aplicativos nativos, os bloatwares que vêm junto com o seu aparelho. Aqueles aplicativos que você não usa, mas não consegue desinstalar. Um aviso, apenas desinstale aplicativos que não geram problemas, como os não necessários para o funcionamento do aparelho. Pode ser necessário pesquisar sobre o seu aparelho em específico. Caso acabe desinstalando um aplicativo importante por engano, poderá haver a necessidade de formatar o dispositivo. Me pergunte como eu sei.
@@ -54,5 +56,4 @@ As etapas mencionadas até esse ponto são suficientes para o aumento substancia
 
 ## Nível avançado
 
-A desinstalação de aplicativos, a substituição por alternativas mais amigas da privacidade e o bloqueio do acesso à internet, ainda são limitados pela ROM instalada no dispositivo. Existem algumas alternativas de ROMs open source, como o GrapheneOS, CalyxOS e LineageOS. Os dois primeiros, com foco nos aparelhos Pixel, da Google. O último, com ampla gama de aparelhos, como modelos das marcas Google, Samsung, Sony e Xiaomi.
-
+A desinstalação de aplicativos, a substituição por alternativas mais amigas da privacidade e o bloqueio do acesso à internet, ainda são limitados pela ROM instalada no dispositivo. Existem algumas alternativas de ROMs open source, como o GrapheneOS, CalyxOS e LineageOS. Os dois primeiros, com foco nos aparelhos Pixel, da Google. O último, com ampla gama de aparelhos, como modelos das marcas Google, Samsung, Sony e Xiaomi. Adicionalmente, começam a surgir no mercado, opções de aparelhos celulares com sistemas operacionais Linux, como o PinePhone e o Librem 5, porém, ainda em fase preliminar de desenvolvimento ou venda.
