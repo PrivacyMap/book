@@ -85,7 +85,7 @@ Siga esse _checklist_  para o gerenciamento adequado de senhas.
     </tr>
     <tr>
       <td style="text-align:left">N&#xE3;o salve suas senhas nos navegadores</td>
-      <td style="text-align:center">Opcional</td>
+      <td style="text-align:center">Recomendado</td>
       <td style="text-align:left"></td>
       <td style="text-align:center">Seguran&#xE7;a</td>
     </tr>

@@ -57,3 +57,4 @@ As etapas mencionadas até esse ponto são suficientes para o aumento substancia
 ## Nível avançado
 
 A desinstalação de aplicativos, a substituição por alternativas mais amigas da privacidade e o bloqueio do acesso à internet, ainda são limitados pela ROM instalada no dispositivo. Existem algumas alternativas de ROMs open source, como o GrapheneOS, CalyxOS e LineageOS. Os dois primeiros, com foco nos aparelhos Pixel, da Google. O último, com ampla gama de aparelhos, como modelos das marcas Google, Samsung, Sony e Xiaomi. Adicionalmente, começam a surgir no mercado, opções de aparelhos celulares com sistemas operacionais Linux, como o PinePhone e o Librem 5, porém, ainda em fase preliminar de desenvolvimento ou venda.
+
