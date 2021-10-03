@@ -1,4 +1,9 @@
-# Computadores
+# Sistemas operacionais
 
-//todo
+### Introdução 
 
+Para as pessoas que costumam pesquisar sobre privacidade, é trivial saber que os sistemas operacionais do tipo Windows não apresentam bons resultados nesse conceito. Na verdade, nenhum dos sistemas operacionais mais conhecidos respeita a sua privacidade. Você, leitor, que já chegou até aqui, passando por diversos assuntos e tópicos, pode estar diante de uma das maiores dificuldades para àqueles que iniciam o aprendizado sobre privacidade, a mudança de sistema operacional. Comumente, mudar o buscador utilizado é mais fácil que alterar o navegador que, por sua vez, tende a apresentar menores dificuldades frente à mudança de sistema oeracional. A cada avanço de nível, os desafios exigem cada vez mais força de vontade. O comodismo é um dos principais inimigos da busca por privacidade. 
+
+Assim como utilizar um buscador com boa privacidade em um navegador que constantemente te espiona, utilizar navegadores e outros softwares com bom nível de privacidade em um sistema operacional que pode ser considerado, para todos os efeitos, um spyware, reduz os ganhos potenciais das mudanças executadas. Privacidade e segurança são conceitos que andam sempre acompanhados um do outro, também apresentando considerável semelhança em seus métodos de implementação. Para uma estratégia mais eficaz, deve-se pensar em diferentes níveis, utilizando soluções em camada. Privacidade não é algo que você compra. Nenhum software que você instala em seu computador lhe proporcionará privacidade, pois ela não é uma coisa, mas uma mentalidade; um modo de pensar e agir. 
+
+Este capítulo tratará de sistema operacionais, discutindo as diferentes formas empregadas no rastreio do usuário e os problemas associados com essa prática. Por fim, serão apresentadas alternativas e soluções para mitigar os problemas encontrados.
