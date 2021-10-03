@@ -204,12 +204,6 @@ description: 'Navegadores, sua principal ferramenta para exploração da interne
 
 **Escolha o nível de protreção desejada, normal, rigoroso ou personalizada**
 
-**Habilite a opção não rastrear**
-
-**Segundo o próprio site da mozila, "a maioria dos sites monitoram o comportamento de seus visitantes e depois vendem ou disponibilizam essas informações para outras empresas. Essas informações podem ser usadas para mostrar anúncios, produtos ou serviços mais relevantes para você. O Firefox tem um recurso chamado Não rastrear que informa aos sites visitados, anunciantes e outros provedores de conteúdo que você não quer que seu comportamento de navegação seja monitorado. Honrar esta configuração é opcional, os sites não são obrigados a respeitar."**
-
-**De qualquer forma, convém habilitar**
-
 **Decida sobre as opções de armazenamento de senhas e histórico. Para a sua privacidade e segurança, o ideal é não salvar senhas no navegador e nunca salvar o histórico.**
 
 **Desabilite a coleta e uso de dados pelo Firefox**
@@ -525,6 +519,18 @@ description: 'Navegadores, sua principal ferramenta para exploração da interne
 **\*browser.sessionstore.resume\_from\_crash = false**
 
 **Desabilita a restauração de sessão interrompida por crash**
+
+**\*dom.storage.enabled**
+
+**Desabilita o armazenamento de dados no computador do usuário**
+
+**\*dom.caches.enabled = false**
+
+**Desabilita o cache do DOM**
+
+**\*extensions.getAddons.cache.enabled = false**
+
+**Desabilita o envio diário de informações à Mozilla sobre add-ons instalados e metadados relacionados**
 
 ## Apêndice C \(configurações Brave\)
 
