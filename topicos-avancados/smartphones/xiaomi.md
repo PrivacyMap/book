@@ -14,6 +14,8 @@ Caso o seu dispositivo já estiver em uso e você não deseje formatá-lo, poder
 
 Com o dispositivo já configurado e inicializado, entre nas configurações. Vá até "apps" e, depois, "gerenciar apps". Clique em "desinstalar" e faça a desinstalação de todos os aplicativos que não são necessários a você. Ainda em "apps", revise as permissões concedidas para os aplicativos instalados em seu aparelho. Aplicativos como a sua calculadora não necessitam de acesso aos seus contatos, mas tome cuidado para não revogar permissões importantes, principalmente em softwares críticos, como o google play services.
 
+Em configurações, pesquise por autorização e revogação. Revogue a autorização de todos os aplicativos, exceto "atualizações".
+
 Por fim, tenha uma senha forte para entrar em seu celular, não algo como "senha" ou "123", mas algo que impeça alguém de acessar seus dados quando você não estiver por perto.
 
 ## Nível intermediário
@@ -50,7 +52,7 @@ Contanto que não desinstale aplicativos importantes para o sistema, ou alguns s
 
 Quando terminar, para sair, digite exit.
 
-Terminada essa etapa, instale a loja de aplicativos f-droid. Você poderá instalar pelo site do projeto, efetuando o download do APK. Alguns aplicativos desinstalados por você nas etapas anteriores não necessitam de substitutos, contudo, você poderá substituir aplicativos úteis por alternativas presentes no f-droid, como a câmera e o navegador. Um excelente aplicativo para ter em seu dispositivo é o netguard. Com ele, você poderá controlar quais aplicativos terão acesso à internet, o que reduz, por si só, substancialmente a quantidade de informações enviadas por seu dispositivo a servidores remotos espalhados pelo mundo. Como ainda estamos na ROM proprietária do fabricante, essa etapa torna-se ainda mais importante. Nem todos os aplicativos que gostaríamos de desinstalar são realmente possíveis sem quebrar o sistema.
+Terminada essa etapa, instale a loja de aplicativos f-droid. Você poderá instalar pelo site do projeto, efetuando o download do APK. Alguns aplicativos desinstalados por você nas etapas anteriores não necessitam de substitutos, contudo, você poderá substituir aplicativos úteis por alternativas presentes no f-droid, como a câmera e o navegador. Os aplicativos sob a denominação "simple tools" são algumas alternativas encontradas para os aplicativos mais comuns presentes nos smartphones. Ainda, um excelente aplicativo para ter em seu dispositivo é o netguard. Com ele, você poderá controlar quais appa terão acesso à internet, o que reduz, por si só, substancialmente a quantidade de informações enviadas por seu dispositivo a servidores remotos espalhados pelo mundo. Como ainda estamos na ROM proprietária do fabricante, essa etapa torna-se ainda mais importante. Nem todos os aplicativos que gostaríamos de desinstalar são realmente possíveis sem quebrar o sistema.
 
 As etapas mencionadas até esse ponto são suficientes para o aumento substancial de sua privacidade em smartphones, todavia, ainda existem alternativas mais atrativas para os que desejam mais privacidade, porém, com maior custo embutido.
 
