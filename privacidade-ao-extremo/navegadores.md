@@ -144,19 +144,16 @@ description: 'Navegadores, sua principal ferramenta para exploração da interne
 
 **Melhor navegador para garantir o anonimato -&gt; tor browser**
 
-/***
 | __Navegadores recomendados para desktop__ | __Navegadores recomendados para Android__ | __Navegadores recomendados para IOS__ | __Extensões recomendadas (não utilize todas de uma vez)__ |
 |-------------|------------|------------|------------|
-| Brave Browser | Brave browser | Duckduckgo      | AdGuard AdBlocker |
-| Mozilla Firefox | Bromite | Firefox     | AdGuard VPN -> limitada no plano gratuito |
-| Tor Browser | Duckduckgo     | Onion Browser      | ClearURLs |
-|      -    |  | Firefox     | Cookie AutoDelete |
-|      -    | Privacy Browser     | -      | Decentraleyes |
-|      -    | Tor Browser | -     | NoScript |
-|      -    |   -   |  -     | Privacy Badger |
-|      -    | - |  -    | uBlock Origin |
-
-***/
+| Brave Browser   | Brave browser   | Duckduckgo     | AdGuard AdBlocker                         |
+| Mozilla Firefox | Bromite         | Firefox        | AdGuard VPN -> limitada no plano gratuito |
+| Tor Browser     | Duckduckgo      | Onion Browser  | ClearURLs                                 |
+|      -          | Privacy Browser | Firefox        | Cookie AutoDelete                         |
+|      -          | Tor Browser     |      -         | Decentraleyes                             |
+|      -          |      -          |      -         | NoScript                                  |
+|      -          |      -          |      -         | Privacy Badger                            |
+|      -          |      -          |      -         | uBlock Origin                             |
 
 ### Apêndice B \(configurações Firefox\)
 
