@@ -146,15 +146,15 @@ description: 'Navegadores, sua principal ferramenta para exploração da interne
 
 /***
 | __Navegadores recomendados para desktop__ | __Navegadores recomendados para Android__ | __Navegadores recomendados para IOS__ | __Extensões recomendadas (não utilize todas de uma vez)__ |
-|-------------|------------|------------|
+|-------------|------------|------------|------------|
 | Mozilla Firefox| Tor Browser | Firefox      | AdGuard AdBlocker |
 | Tor Browser | Firefox | Onion Browser     | AdGuard VPN -> limitada no plano gratuito |
 | Brave Browser | Bromite     | Duckduckgo      | ClearURLs |
-|          | Brave browser | Orange     | Cookie AutoDelete |
-|          | Duckduckgo     | Apple      | Decentraleyes |
-|          | Privacy Browser | Orange     | NoScript |
-|          |      |       | Privacy Badger |
-|          |  |      | uBlock Origin |
+|      -    | Brave browser | Orange     | Cookie AutoDelete |
+|      -    | Duckduckgo     | Apple      | Decentraleyes |
+|      -    | Privacy Browser | Orange     | NoScript |
+|      -    |   -   |  -     | Privacy Badger |
+|      -    | - |  -    | uBlock Origin |
 ***/
 
 ### Apêndice B \(configurações Firefox\)
