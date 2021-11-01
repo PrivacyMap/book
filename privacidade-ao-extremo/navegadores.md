@@ -191,157 +191,46 @@ description: 'Navegadores, sua principal ferramenta para exploração da interne
 
 **Na barra de endereços, digite about:config e aceite o risco**
 
-**\*privacy.firstparty.isolate = true**
-
-**Ajuda a prevenir rastreamento entre diferentes domínios**
-
-**\*privacy.resistFingerprinting = true**
-
-**Maior resistência contra identificação do navegador**
-
-**\*privacy.trackingprotection.fingerprinting.enabled = true**
-
-**Maior resistência contra identificação do navegador**
-
-**\*privacy.trackingprotection.cryptomining.enabled = true**
-
-**Maior resistência contra CryptoMining**
-
-**\*privacy.trackingprotection.enabled = true**
-
-**Dificulta o rastreamento**
-
-**\*browser.send\_pings = false**
-
-**Dificulta o rastreamento**
-
-**\*browser.urlbar.speculativeConnect.enabled = false**
-
-**Desabilita o carregamento prévio de páginas autocompletadas**
-
-**\*dom.event.clipboardevents.enabled = false**
-
-**Impede que os sites sejam notifivados quando você copia, cola ou corta conteúdo**
-
-**\*media.eme.enabled = false**
-
-**Desabilita o download automátivco do Widevine Content Decryption Module da Google**
-
-**\*media.gmp-widevinecdm.enabled = false**
-
-**Desabilita o Widevine Content Decryption Module**
-
-**\*media.navigator.enabled = false**
-
-**Desabilita a detecção do estatus do seu microfone e câmera pelos sites**
-
-**\*webgl.disabled = true**
-
-**Desabilita o WebGL**
-
-**\*network.http.referer.XOriginPolicy = 2**
-
-**Apenas envia o Referer header quando os hostnames completos coincidem. Varia de 0 a 2, sendo 2, o mais restritivo**
-
-**\*network.http.referer.XOriginTrimmingPolicy = 2**
-
-**Limita as informações transmitidas entre origens. Varia de 0 a 2, sendo 2, o mais restritivo**
-
-**\*browser.sessionstore.privacy\_level = 2**
-
-**Limita o armazenamento de informações das sessões. Varia de 0 a 2, sendo 2, o mais restritivo**
-
-**\*beacon.enabled = false**
-
-**Impede o envio de alguns tipos de informação para servidores web**
-
-**\*browser.safebrowsing.downloads.remote.enabled = false**
-
-**Previne o envio de informações sobre downloads de arquivos executáveis para o Google Safe Browsing**
-
-**\*browser.safebrowsing.provider.google.updateURL = vazio**
-
-**Desabilita o compartilhamento de informações**
-
-**\*browser.safebrowsing.provider.google4.updateURL = vazio**
-
-**Desabilita o compartilhamento de informações**
-
-**\*browser.safebrowsing.provider.google4.dataSharingURL = vazio**
-
-**Desabilita o compartilhamento de informações**
-
-**\*browser.safebrowsing.provider.google4.gethashURL = vazio**
-
-**Desabilita o compartilhamento de informações**
-
-**\*browser.safebrowsing.blockedURIs.enabled = false**
-
-**Desabilita o safebrowsing**
-
-**\*browser.safebrowsing.phishing.enabled = false**
-
-**Desabilita o safebrowsing**
-
-**\*browser.safebrowsing.malware.enabled = false**
-
-**Desabilita o safebrowsing**
-
-**\*network.dns.disablePrefetch = true**
-
-**Desabilita o prefetch e o carregamento de cookies associados**
-
-**\*network.dns.disablePrefetchFromHTTPS = true**
-
-**Desabilita o prefetch e o carregamento de cookies associados**
-
-**\*network.predictor.enabled = false**
-
-**Desabilita o prefetch e o carregamento de cookies associados**
-
-**\*network.predictor.enable-prefetch = false**
-
-**Desabilita o prefetch e o carregamento de cookies associados**
-
-**\*network.prefetch-next = false**
-
-**Desabilita o prefetch e o carregamento de cookies associados**
-
-**\*network.IDN\_show\_punycode = true**
-
-**Dificulta alguns tipos de ataques phishing**
-
-**\*media.peerconnection.enabled = false**
-
-**Desabilita o WebRTC e previne o vazamento de ip quando em vpn**
-
-**\*media.peerconnection.turn.disable = true**
-
-**Desabilita o WebRTC e previne o vazamento de ip quando em vpn**
-
-**\*media.peerconnection.use\_document\_iceservers = false**
-
-**Desabilita o WebRTC e previne o vazamento de ip quando em vpn**
-
-**\*media.peerconnection.video.enabled = false**
-
-**Desabilita o WebRTC e previne o vazamento de ip quando em vpn**
-
-**\*media.peerconnection.identity.timeout = 1**
-
-**Desabilita o WebRTC e previne o vazamento de ip quando em vpn**
-
-**\*dom.battery.enabled = false**
-
-**Dificulta o envio de informações sobre o status da bateria**
-
-**\*extensions.pocket.enabled = false**
-
-**Desabilita o pocket**
-
-**\*extensions.pocket.api = vazio**
-
-**Desabilita o pocket**
+| __Descrição__ | __Parâmetro__ | __Valor__ |
+|-------------|------------|------------|
+| Ajuda a prevenir rastreamento entre diferentes domínios   | privacy.firstparty.isolate   | true    |
+| Maior resistência contra identificação do navegador       | privacy.resistFingerprinting | true    |
+| Maior resistência contra identificação do navegador       | privacy.trackingprotection.fingerprinting.enabled   | true      |
+| Maior resistência contra CryptoMining         | privacy.trackingprotection.cryptomining.enabled | true     |
+| Dificulta o rastreamento    | privacy.trackingprotection.enabled     | true      |
+| Dificulta o rastreamento    | browser.send_pings | false     |
+| Desabilita o carregamento prévio de páginas autocompletadas    | browser.urlbar.speculativeConnect.enabled   | false      |
+| Impede que os sites sejam notifivados quando você copia, cola ou corta conteúdo  | dom.event.clipboardevents.enabled | false     |
+| Desabilita o download automátivco do Widevine Content Decryption Module da Google    | media.eme.enabled     | false      |
+| Desabilita o Widevine Content Decryption Module    | media.gmp-widevinecdm.enabled | false     |
+| Desabilita a detecção do estatus do seu microfone e câmera pelos sites         | media.navigator.enabled     | false      |
+| Desabilita o WebGL      | webgl.disabled | true     |
+| Apenas envia o Referer header quando os hostnames completos coincidem. Varia de 0 a 2, sendo 2, o mais restritivo      | network.http.referer.XOriginPolicy     | 2     |
+| Limita as informações transmitidas entre origens. Varia de 0 a 2, sendo 2, o mais restritivo   | network.http.referer.XOriginTrimmingPolicy | 2     |
+| Limita o armazenamento de informações das sessões. Varia de 0 a 2, sendo 2, o mais restritivo    | browser.sessionstore.privacy_level    | 2     |
+| Impede o envio de alguns tipos de informação para servidores web    | beacon.enabled | false     |
+| Previne o envio de informações sobre downloads de arquivos executáveis para o Google Safe Browsing     | browser.safebrowsing.downloads.remote.enabled     | false      |
+| Desabilita o compartilhamento de informações    | browser.safebrowsing.provider.google.updateURL | vazio     |
+| Desabilita o compartilhamento de informações    | browser.safebrowsing.provider.google4.updateURL     | vazio      |
+| Desabilita o compartilhamento de informações    | browser.safebrowsing.provider.google4.dataSharingURL | vazio     |
+| Desabilita o compartilhamento de informações    | browser.safebrowsing.provider.google4.gethashURL     | vazio      |
+| Desabilita o safebrowsing         | browser.safebrowsing.blockedURIs.enabled | false     |
+| Desabilita o safebrowsing         | browser.safebrowsing.phishing.enabled     | false      |
+| Desabilita o safebrowsing         | browser.safebrowsing.malware.enabled | false     |
+| Desabilita o prefetch e o carregamento de cookies associados     | network.dns.disablePrefetch     | true      |
+| Desabilita o prefetch e o carregamento de cookies associados         | network.dns.disablePrefetchFromHTTPS | true     |
+| Desabilita o prefetch e o carregamento de cookies associados         | network.predictor.enabled     | false      |
+| Desabilita o prefetch e o carregamento de cookies associados         | network.predictor.enable-prefetch | false     |
+| Desabilita o prefetch e o carregamento de cookies associados         | network.prefetch-next    | false      |
+| Dificulta alguns tipos de ataques phishing         | network.IDN_show_punycode | true     |
+| Desabilita o WebRTC e previne o vazamento de ip quando em vpn         | media.peerconnection.enabled     | false      |
+| Desabilita o WebRTC e previne o vazamento de ip quando em vpn         | media.peerconnection.turn.disable | true     |
+| Desabilita o WebRTC e previne o vazamento de ip quando em vpn         | media.peerconnection.use_document_iceservers     | false      |
+| Desabilita o WebRTC e previne o vazamento de ip quando em vpn         | media.peerconnection.video.enabled | false     |
+| Desabilita o WebRTC e previne o vazamento de ip quando em vpn         | media.peerconnection.identity.timeout    | 1      |
+| Dificulta o envio de informações sobre o status da bateria         | dom.battery.enabled | false     |
+| Desabilita o pocket         | extensions.pocket.enabled     | false      |
+| Desabilita o pocket         | extensions.pocket.api | vazio     |
 
 **\*extensions.pocket.site = vazio**
 
