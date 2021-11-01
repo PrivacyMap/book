@@ -14,27 +14,28 @@ description: 'Navegadores, sua principal ferramenta para exploração da interne
 
 **Métodos mais modernos de rastreamento dependem de uma variada gama de informações e configurações presentes nos navegadores atuais ou acessíveis através deles. Cada site que acessamos é capaz de identificar diversos parâmetros associados ao navegador e dispositivo que usamos, primordialmente, pelo uso de javascript. Essas informações são:**
 
-| __###Informações utilizadas no rastreamento de usuários:__ |
+| __Informações utilizadas no rastreamento de usuários:__ |
 |-------------|
-| **\*user agent** |
-| **\*idioma** |
-| **\*extensões instaladas no navegador** |
-| **\*tipo/modelo de dispositivo** |
-| **\*sistema operacional** |
-| **\*lista de fontes** |
-| **\*presença de um bloqueador de anúncios** |
-| **\*resolução da tela** |
-| **\*hora do sistema** |
-| **\*elemento canvas** |
-|**\*preferência de cookies** |
-|**\*preferência de "do not track"** |
-|**\*estado do javascript** |
-|**\*presença de câmera e microfone** |
-|**\*estado da bateria** |
-|**\*informações do driver gráfico** |
-|**\*arquitetura da cpu** |
-|**\*capacidade da memória ram instalada** |
-|**dentre muitas outras** |
+| **\-user agent** |
+| **\-idioma** |
+| **\-extensões instaladas no navegador** |
+| **\-tipo/modelo de dispositivo** |
+| **\-sistema operacional** |
+| **\-lista de fontes** |
+| **\-presença de um bloqueador de anúncios** |
+| **\-resolução da tela** |
+| **\-hora do sistema** |
+| **\-elemento canvas** |
+| **\-preferência de cookies** |
+| **\-preferência de "do not track"** |
+| **\-estado do javascript** |
+| **\-presença de câmera e microfone** |
+| **\-estado da bateria** |
+| **\-informações do driver gráfico** |
+| **\-arquitetura da cpu** |
+| **\-capacidade da memória ram instalada** |
+
+ **dentre muitas outras** 
 
 **Somadas, essas informações são mais que suficientes para identificar um usuário com precisão, podendo definir sua navegação por inteiro.**
 
