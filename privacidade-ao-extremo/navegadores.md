@@ -54,6 +54,8 @@ description: 'Navegadores, sua principal ferramenta para exploração da interne
 
 **Somadas, essas informações são mais que suficientes para identificar um usuário com precisão, podendo definir sua navegação por inteiro.**
 
+**Recentemente, novos métodos de obtenção de impressão digital foram tornados públicos, causando certo furor na comunidade de privacidade, contudo, seguindo os métodos aqui apresentados (tanto no presente capítulo quanto neste livro), o usuário será capaz de se proteger mesmo desse novo tipo de rastreio. A utilização de múltiplos navegadores, mudanças no tamanho da janela de navegação, bem como a utilização do Tor Browser, serão suficientes para gerar diferentes identidades digitais.**
+
 ## SEGURANÇA
 
 **Como anteriormente mencionado, os navegadores, não dificilmente, constituem o principal meio de contato dos nossos computadores com o restante da internet; nada mais que uma rede de comunicação mundial formada por outros computadores. Partindo desse pressuposto, devemos ter em mente formas de proteger a nossa segurança digital \(e a dos outros\) quando utlizando softwares dessa categoria.**
@@ -288,6 +290,7 @@ description: 'Navegadores, sua principal ferramenta para exploração da interne
 | Desabilita o envio diário de informações à Mozilla sobre add-ons instalados e metadados relacionados        | extensions.getAddons.cache.enabled | false    |
 | Desabilita o javascript ao abrir arquivos em PDF         | pdfjs.enableScripting     | false      |
 
+Não é necessário realizar todas as modificações aqui apresentadas, o leitor ficando responsável por verificar o que lhe for suficiente.  
 
 ## Apêndice C \(configurações Brave\)
 
