@@ -15,7 +15,7 @@ description: 'Navegadores, sua principal ferramenta para exploração da interne
 **Métodos mais modernos de rastreamento dependem de uma variada gama de informações e configurações presentes nos navegadores atuais ou acessíveis através deles. Cada site que acessamos é capaz de identificar diversos parâmetros associados ao navegador e dispositivo que usamos, primordialmente, pelo uso de javascript. Essas informações são:**
 
 | __Informações utilizadas no rastreamento de usuários__ |
-|-------------|------------|------------|------------|
+|-------------|
 | **\*user agent** |
 | **\*idioma** |
 | **\*extensões instaladas no navegador** |
@@ -24,10 +24,8 @@ description: 'Navegadores, sua principal ferramenta para exploração da interne
 | **\*lista de fontes** |
 | **\*presença de um bloqueador de anúncios** |
 | **\*resolução da tela** |
-
-**\*hora do sistema**
-
-**\*elemento canvas**
+| **\*hora do sistema** |
+| **\*elemento canvas** |
 
 **\*preferência de cookies**
 
