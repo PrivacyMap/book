@@ -231,158 +231,63 @@ description: 'Navegadores, sua principal ferramenta para exploração da interne
 | Dificulta o envio de informações sobre o status da bateria         | dom.battery.enabled | false     |
 | Desabilita o pocket         | extensions.pocket.enabled     | false      |
 | Desabilita o pocket         | extensions.pocket.api | vazio     |
+| Desabilita o pocket   | extensions.pocket.site   | vazio    |
+| Desabilita o cache offline      | browser.cache.offline.enable | false    |
+| Desabilita o cache para conexões ssl      | browser.cache.disk_cache_ssl   | false      |
+| Desablita o cache na memória         | browser.cache.memory.enable | false     |
+| Desabilita o cache offline   | browser.cache.offline.capacity     | 0      |
+| Desabilita a geolocalização    | geo.enabled | false     |
+| Desabilita a geolocalização    | geo.provider.network.url   | vazio      |
+| Dificulta o rastreamento  | device.sensors.enabled | false     |
+| Dificulta o rastreamento por meio de css   | layout.css.visited_links_enabled     | false      |
+| Desabilita notificações quando você clica    | browser.send_pings.max_per_link | 0     |
+| Desabilita o OCSP        | security.OCSP.enabled  | 0      |
+| Desabilite as push notifications     | dom.push.enabled | false     |
+| Desabilite as push notifications    | dom.push.connection.enabled  | false     |
+| Desabilite as push notifications  | dom.push.serverURL | vazio     |
+| Desabilita a telemetria    | dom.ipc.plugins.flash.subprocess.crashreporter.enabled | false     |
+| Desabilita a telemetria    | app.normandy.enabled     | false      |
+| Desabilita a telemetria    | app.normandy.first_run | false     |
+| Desabilita a telemetria    | app.normandy.api_url    | vazio      |
+| Desabilita a telemetria    | browser.safebrowsing.provider.google4.dataSharingURL | vazio     |
+| Desabilita a telemetria    | browser.safebrowsing.provider.google4.gethashURL     | vazio      |
+| Desabilita a telemetria    | browser.safebrowsing.blockedURIs.enabled | false     |
+| Desabilita a telemetria    | browser.safebrowsing.phishing.enabled     | false      |
+| Desabilita a telemetria    | devtools.onboarding.telemetry.logged | false     |
+| Desabilita a telemetria    | browser.newtabpage.activity-stream.feeds.telemetry     | false      |
+| Desabilita a telemetria    | browser.newtabpage.activity-stream.telemetry | false     |
+| Desabilita a telemetria    | browser.ping-centre.telemetry    | false      |
+| Desabilita a telemetria    | toolkit.telemetry.bhrPing.enabled | false     |
+| Desabilita a telemetria    | toolkit.telemetry.firstShutdownPing.enabled     | false      |
+| Desabilita a telemetria    | toolkit.telemetry.newProfilePing.enabled  | false     |
+| Desabilita a telemetria    | toolkit.telemetry.reportingpolicy.firstRun     | false      |
+| Desabilita a telemetria   | toolkit.telemetry.server   | vazio     |
+| Desabilita a telemetria    | toolkit.telemetry.shutdownPingSender.enabled | false     |
+| Desabilita a telemetria    | toolkit.telemetry.unified    | false      |
+| Desabilita a telemetria    | toolkit.telemetry.updatePing.enabled | false     |
+| Desabilita a telemetria    | toolkit.telemetry.archive.enabled    | false      |
+| Desabilita a telemetria    | datareporting.healthreport.uploadEnabled| false     |
+| Desabilita a telemetria    | datareporting.policy.dataSubmissionEnabled     | false      |
+| Envie como referer o site que você está visitando        | network.http.referer.spoofSource | true     |
+| Impede o uso de protocolos de segurança conhecidamente vulneráveis    | security.ssl3.rsa_des_ede_sha     | false      |
+| Otimização da criptografia        | security.ssl.require_safe_negociation | true     |
+| Escolha da versão mínima de tls. 4 para maior segurança.        | security.tls.version.min    | 3      |
+| Melhoramento da privacidade na navegação         | security.tls.enable_0rtt_data | true     |
+| Desabilita a conta do Firefox         | identity.fxaccounts.enabled    | false      |
+| Reduz a capacidade de identificação digital, desabilitando estatísticas de vídeo         | media.video_stats.enabled | false     |
+| Desabilita o Text-to-Speech da Web Speech API        | media.webspeech.synth.enabled   | false      |
+| Zoom específico para sites não são guardados        | browser.zoom.siteSpecific | false     |
+| Obriga o proxy para pesquisas DNS quando na utilização do SOCKS         | network.proxy.socks_remote_dns    | true      |
+| Previne que scripts movam ou mudem o tamanho das janelas        | dom.disable_window_move_resize | true     |
+| Links abertos em novas abas em vez de novas janelas, prevenindo vazamentos da resuloção real        | browser.link.open_newwindow    | 3      |
+| Links abertos em novas abas em vez de novas janelas, prevenindo vazamentos da resuloção real         | browser.link.open_newwindow.restriction | 0     |
+| Desabilita a Fullscreen API, prevenindo vazamentos da resolução real         | full-screen-api.enabled     | false      |
+| Desabilita a restauração de sessão interrompida por crash         | browser.sessionstore.resume_from_crash    | false      |
+| Desabilita o armazenamento de dados no computador do usuário        | dom.storage.enabled | false     |
+| Desabilita o cache do DOM       | dom.caches.enabled    | false     |
+| Desabilita o envio diário de informações à Mozilla sobre add-ons instalados e metadados relacionados        | extensions.getAddons.cache.enabled | false    |
+| Desabilita o javascript ao abrir arquivos em PDF         | pdfjs.enableScripting     | false      |
 
-**\*extensions.pocket.site = vazio**
-
-**Desabilita o pocket**
-
-**\*browser.cache.offline.enable = false**
-
-**Desabilita o cache offline**
-
-**\*browser.cache.disk\_cache\_ssl = false**
-
-**Desabilita o cache para conexões ssl**
-
-**\*browser.cache.memory.enable = false**
-
-**Desablita o cache na memória**
-
-**\*browser.cache.offline.capacity = 0**
-
-**Desabilita o cache offline**
-
-**\*geo.enabled = false**
-
-**Desabilita a geolocalização**
-
-**\*geo.provider.network.url = vazio**
-
-**Desabilita a geolocalização**
-
-**\*device.sensors.enabled = false**
-
-**Dificulta o rastreamento**
-
-**\*layout.css.visited\_links\_enabled = false**
-
-**Dificulta o rastreamento por meio de css**
-
-**\*browser.send\_pings.max\_per\_link = 0**
-
-**Desabilita notificações quando você clica**
-
-**\*security.OCSP.enabled = 0**
-
-**Desabilita o OCSP**
-
-**\*dom.push.enabled = false**
-
-**Desabilite as push notifications**
-
-**\*dom.push.connection.enabled = false**
-
-**Desabilite as push notifications**
-
-**\*dom.push.serverURL = vazio**
-
-**Desabilite as push notifications**
-
-**\*toolkit.telemetry.server = vazio**
-
-**Desabilita a telemetria**
-
-**\*dom.ipc.plugins.flash.subprocess.crashreporter.enabled = false**
-
-**Desabilita a telemetria**
-
-**\*app.normandy.enabled = false**
-
-**Desabilita a telemetria**
-
-**\*app.normandy.first\_run = false**
-
-**Desabilita a telemetria**
-
-**\*app.normandy.api\_url = vazio**
-
-**Desabilita a telemetria**
-
-**\*network.http.referer.spoofSource = true**
-
-**Envie como referer o site que você está visitando**
-
-**\*security.ssl3.rsa\_des\_ede\_sha = false**
-
-**Impede o uso de protocolos de segurança conhecidamente vulneráveis**
-
-**\*security.ssl.require\_safe\_negociation = true**
-
-**Otimização da criptografia**
-
-**\*security.tls.version.min = 3**
-
-**Escolha da versão mínima de tls. 4 para maior segurança.**
-
-**\*security.tls.enable\_0rtt\_data = true**
-
-**Melhoramento da privacidade na navegação**
-
-**\*identity.fxaccounts.enabled = false**
-
-**Desabilita a conta do Firefox**
-
-**\*pdfjs.enableScripting = false**
-
-**Desabilita o javascript ao abrir arquivos em PDF**
-
-**\*media.video\_stats.enabled = false**
-
-**Reduz a capacidade de identificação digital, desabilitando estatísticas de vídeo**
-
-**\*media.webspeech.synth.enabled = false**
-
-**Desabilita o Text-to-Speech da Web Speech API**
-
-**\*browser.zoom.siteSpecific = false**
-
-**Zoom específico para sites não são guardados**
-
-**\*network.proxy.socks\_remote\_dns = true**
-
-**Obriga o proxy para pesquisas DNS quando na utilização do SOCKS**
-
-**\*dom.disable\_window\_move\_resize = true**
-
-**Previne que scripts movam ou mudem o tamanho de janelas**
-
-**\*browser.link.open\_newwindow = 3**
-
-**Links abertos em novas abas em vez de novas janelas, prevenindo vazamentos da resuloção real**
-
-**\*browser.link.open\_newwindow.restriction = 0**
-
-**Links abertos em novas abas em vez de novas janelas, prevenindo vazamentos da resuloção real**
-
-**\*full-screen-api.enabled = false**
-
-**Desabilita a Fullscreen API, prevenindo vazamentos da resolução real**
-
-**\*browser.sessionstore.resume\_from\_crash = false**
-
-**Desabilita a restauração de sessão interrompida por crash**
-
-**\*dom.storage.enabled**
-
-**Desabilita o armazenamento de dados no computador do usuário**
-
-**\*dom.caches.enabled = false**
-
-**Desabilita o cache do DOM**
-
-**\*extensions.getAddons.cache.enabled = false**
-
-**Desabilita o envio diário de informações à Mozilla sobre add-ons instalados e metadados relacionados**
 
 ## Apêndice C \(configurações Brave\)
 
