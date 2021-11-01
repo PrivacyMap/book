@@ -14,21 +14,21 @@ description: 'Navegadores, sua principal ferramenta para exploração da interne
 
 **Métodos mais modernos de rastreamento dependem de uma variada gama de informações e configurações presentes nos navegadores atuais ou acessíveis através deles. Cada site que acessamos é capaz de identificar diversos parâmetros associados ao navegador e dispositivo que usamos, primordialmente, pelo uso de javascript. Essas informações são:**
 
-**\*user agent**
+| **\*user agent** |
 
-**\*idioma**
+| **\*idioma** |
 
-**\*extensões instaladas no navegador**
+| **\*extensões instaladas no navegador** |
 
-**\*tipo/modelo de dispositivo**
+| **\*tipo/modelo de dispositivo** |
 
-**\*sistema operacional**
+| **\*sistema operacional** |
 
-**\*lista de fontes**
+| **\*lista de fontes** |
 
-**\*presença de um bloqueador de anúncios**
+| **\*presença de um bloqueador de anúncios** |
 
-**\*resolução da tela**
+| **\*resolução da tela** |
 
 **\*hora do sistema**
 
@@ -142,9 +142,9 @@ description: 'Navegadores, sua principal ferramenta para exploração da interne
 
 **Melhor navegador para segurança -&gt; Google Chrome**
 
-**Melhor navegador para privacidade -&gt; Firefox modificado**
+**Melhor navegador para privacidade -&gt; Firefox (modificado)**
 
-**Melhor navegador para garantir o anonimato -&gt; tor browser**
+**Melhor navegador para garantir o anonimato -&gt; Tor Browser**
 
 | __Navegadores recomendados para desktop__ | __Navegadores recomendados para Android__ | __Navegadores recomendados para IOS__ | __Extensões recomendadas (não utilize todas de uma vez)__ |
 |-------------|------------|------------|------------|
