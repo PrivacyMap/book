@@ -14,45 +14,32 @@ description: 'Navegadores, sua principal ferramenta para exploração da interne
 
 **Métodos mais modernos de rastreamento dependem de uma variada gama de informações e configurações presentes nos navegadores atuais ou acessíveis através deles. Cada site que acessamos é capaz de identificar diversos parâmetros associados ao navegador e dispositivo que usamos, primordialmente, pelo uso de javascript. Essas informações são:**
 
-**\*user agent**
+| __Informações utilizadas no rastreamento de usuários:__ |
+|-------------|
+| **\- user agent** |
+| **\- idioma** |
+| **\- extensões instaladas no navegador** |
+| **\- tipo/modelo de dispositivo** |
+| **\- sistema operacional** |
+| **\- lista de fontes** |
+| **\- presença de um bloqueador de anúncios** |
+| **\- resolução da tela** |
+| **\- hora do sistema** |
+| **\- elemento canvas** |
+| **\- preferência de cookies** |
+| **\- preferência de "do not track"** |
+| **\- estado do javascript** |
+| **\- presença de câmera e microfone** |
+| **\- estado da bateria** |
+| **\- informações do driver gráfico** |
+| **\- arquitetura da cpu** |
+| **\- capacidade da memória ram instalada** |
 
-**\*idioma**
-
-**\*extensões instaladas no navegador**
-
-**\*tipo/modelo de dispositivo**
-
-**\*sistema operacional**
-
-**\*lista de fontes**
-
-**\*presença de um bloqueador de anúncios**
-
-**\*resolução da tela**
-
-**\*hora do sistema**
-
-**\*elemento canvas**
-
-**\*preferência de cookies**
-
-**\*preferência de "do not track"**
-
-**\*estado do javascript**
-
-**\*presença de câmera e microfone**
-
-**\*estado da bateria**
-
-**\*informações do driver gráfico**
-
-**\*arquitetura da cpu**
-
-**\*capacidade da memória ram instalada**
-
-**dentre muitas outras**
+ **dentre muitas outras...** 
 
 **Somadas, essas informações são mais que suficientes para identificar um usuário com precisão, podendo definir sua navegação por inteiro.**
+
+**Recentemente, novos métodos de obtenção de impressão digital foram tornados públicos, causando certa agitação na comunidade de privacidade, contudo, seguindo os métodos aqui apresentados (tanto no presente capítulo quanto neste livro), o usuário será capaz de se proteger mesmo desse novo tipo de rastreio. A utilização de múltiplos navegadores, mudanças no tamanho da janela de navegação, bem como a utilização do Tor Browser, serão suficientes para gerar diferentes identidades digitais.**
 
 ## SEGURANÇA
 
@@ -140,57 +127,20 @@ description: 'Navegadores, sua principal ferramenta para exploração da interne
 
 **Melhor navegador para segurança -&gt; Google Chrome**
 
-**Melhor navegador para privacidade -&gt; Firefox modificado**
+**Melhor navegador para privacidade -&gt; Firefox (modificado)**
 
-**Melhor navegador para garantir o anonimato -&gt; tor browser**
+**Melhor navegador para garantir o anonimato -&gt; Tor Browser**
 
-#### Navegadores recomendados para desktop
-
-**Mozilla Firefox**
-
-**Tor Browser**
-
-**Brave Browser**
-
-#### Navegadores recomendados para Android
-
-**Tor Browser**
-
-**Firefox**
-
-**Bromite**
-
-**Duckduckgo**
-
-**Privacy Browser**
-
-#### Navegadores recomendados para IOS
-
-**Firefox**
-
-**Onion Browser**
-
-**Duckduckgo**
-
-#### Extensões recomendadas \(não utilize todas de uma vez\)
-
-**AdGuard AdBlocker**
-
-**AdGuard VPN -&gt; limitada no plano gratuito**
-
-**ClearURLs**
-
-**Cookie AutoDelete**
-
-**Decentraleyes**
-
-**HTTPS Everywhere**
-
-**NoScript**
-
-**Privacy Badger** 
-
-**uBlock Origin**
+| __Navegadores recomendados para desktop__ | __Navegadores recomendados para Android__ | __Navegadores recomendados para IOS__ | __Extensões recomendadas (não utilize todas de uma vez)__ |
+|-------------|------------|------------|------------|
+| Brave Browser   | Brave browser   | Duckduckgo     | AdGuard AdBlocker                         |
+| Mozilla Firefox | Bromite         | Firefox        | AdGuard VPN -> limitada no plano gratuito |
+| Tor Browser     | Duckduckgo      | Onion Browser  | ClearURLs                                 |
+|      -          | Privacy Browser | Firefox        | Cookie AutoDelete                         |
+|      -          | Tor Browser     |      -         | Decentraleyes                             |
+|      -          |      -          |      -         | NoScript                                  |
+|      -          |      -          |      -         | Privacy Badger                            |
+|      -          |      -          |      -         | uBlock Origin                             |
 
 ### Apêndice B \(configurações Firefox\)
 
@@ -203,12 +153,6 @@ description: 'Navegadores, sua principal ferramenta para exploração da interne
 **No painel esquerdo, clique em privacidade e segurança**
 
 **Escolha o nível de protreção desejada, normal, rigoroso ou personalizada**
-
-**Habilite a opção não rastrear**
-
-**Segundo o próprio site da mozila, "a maioria dos sites monitoram o comportamento de seus visitantes e depois vendem ou disponibilizam essas informações para outras empresas. Essas informações podem ser usadas para mostrar anúncios, produtos ou serviços mais relevantes para você. O Firefox tem um recurso chamado Não rastrear que informa aos sites visitados, anunciantes e outros provedores de conteúdo que você não quer que seu comportamento de navegação seja monitorado. Honrar esta configuração é opcional, os sites não são obrigados a respeitar."**
-
-**De qualquer forma, convém habilitar**
 
 **Decida sobre as opções de armazenamento de senhas e histórico. Para a sua privacidade e segurança, o ideal é não salvar senhas no navegador e nunca salvar o histórico.**
 
@@ -234,297 +178,104 @@ description: 'Navegadores, sua principal ferramenta para exploração da interne
 
 **Na barra de endereços, digite about:config e aceite o risco**
 
-**\*privacy.firstparty.isolate = true**
-
-**Ajuda a prevenir rastreamento entre diferentes domínios**
-
-**\*privacy.resistFingerprinting = true**
-
-**Maior resistência contra identificação do navegador**
-
-**\*privacy.trackingprotection.fingerprinting.enabled = true**
-
-**Maior resistência contra identificação do navegador**
-
-**\*privacy.trackingprotection.cryptomining.enabled = true**
-
-**Maior resistência contra CryptoMining**
-
-**\*privacy.trackingprotection.enabled = true**
-
-**Dificulta o rastreamento**
-
-**\*browser.send\_pings = false**
-
-**Dificulta o rastreamento**
-
-**\*browser.urlbar.speculativeConnect.enabled = false**
-
-**Desabilita o carregamento prévio de páginas autocompletadas**
-
-**\*dom.event.clipboardevents.enabled = false**
-
-**Impede que os sites sejam notifivados quando você copia, cola ou corta conteúdo**
-
-**\*media.eme.enabled = false**
-
-**Desabilita o download automátivco do Widevine Content Decryption Module da Google**
-
-**\*media.gmp-widevinecdm.enabled = false**
-
-**Desabilita o Widevine Content Decryption Module**
-
-**\*media.navigator.enabled = false**
-
-**Desabilita a detecção do estatus do seu microfone e câmera pelos sites**
-
-**\*webgl.disabled = true**
-
-**Desabilita o WebGL**
-
-**\*network.http.referer.XOriginPolicy = 2**
-
-**Apenas envia o Referer header quando os hostnames completos coincidem. Varia de 0 a 2, sendo 2, o mais restritivo**
-
-**\*network.http.referer.XOriginTrimmingPolicy = 2**
-
-**Limita as informações transmitidas entre origens. Varia de 0 a 2, sendo 2, o mais restritivo**
-
-**\*browser.sessionstore.privacy\_level = 2**
-
-**Limita o armazenamento de informações das sessões. Varia de 0 a 2, sendo 2, o mais restritivo**
-
-**\*beacon.enabled = false**
-
-**Impede o envio de alguns tipos de informação para servidores web**
-
-**\*browser.safebrowsing.downloads.remote.enabled = false**
-
-**Previne o envio de informações sobre downloads de arquivos executáveis para o Google Safe Browsing**
-
-**\*browser.safebrowsing.provider.google.updateURL = vazio**
-
-**Desabilita o compartilhamento de informações**
-
-**\*browser.safebrowsing.provider.google4.updateURL = vazio**
-
-**Desabilita o compartilhamento de informações**
-
-**\*browser.safebrowsing.provider.google4.dataSharingURL = vazio**
-
-**Desabilita o compartilhamento de informações**
-
-**\*browser.safebrowsing.provider.google4.gethashURL = vazio**
-
-**Desabilita o compartilhamento de informações**
-
-**\*browser.safebrowsing.blockedURIs.enabled = false**
-
-**Desabilita o safebrowsing**
-
-**\*browser.safebrowsing.phishing.enabled = false**
-
-**Desabilita o safebrowsing**
-
-**\*browser.safebrowsing.malware.enabled = false**
-
-**Desabilita o safebrowsing**
-
-**\*network.dns.disablePrefetch = true**
-
-**Desabilita o prefetch e o carregamento de cookies associados**
-
-**\*network.dns.disablePrefetchFromHTTPS = true**
-
-**Desabilita o prefetch e o carregamento de cookies associados**
-
-**\*network.predictor.enabled = false**
-
-**Desabilita o prefetch e o carregamento de cookies associados**
-
-**\*network.predictor.enable-prefetch = false**
-
-**Desabilita o prefetch e o carregamento de cookies associados**
-
-**\*network.prefetch-next = false**
-
-**Desabilita o prefetch e o carregamento de cookies associados**
-
-**\*network.IDN\_show\_punycode = true**
-
-**Dificulta alguns tipos de ataques phishing**
-
-**\*media.peerconnection.enabled = false**
-
-**Desabilita o WebRTC e previne o vazamento de ip quando em vpn**
-
-**\*media.peerconnection.turn.disable = true**
-
-**Desabilita o WebRTC e previne o vazamento de ip quando em vpn**
-
-**\*media.peerconnection.use\_document\_iceservers = false**
-
-**Desabilita o WebRTC e previne o vazamento de ip quando em vpn**
-
-**\*media.peerconnection.video.enabled = false**
-
-**Desabilita o WebRTC e previne o vazamento de ip quando em vpn**
-
-**\*media.peerconnection.identity.timeout = 1**
-
-**Desabilita o WebRTC e previne o vazamento de ip quando em vpn**
-
-**\*dom.battery.enabled = false**
-
-**Dificulta o envio de informações sobre o status da bateria**
-
-**\*extensions.pocket.enabled = false**
-
-**Desabilita o pocket**
-
-**\*extensions.pocket.api = vazio**
-
-**Desabilita o pocket**
-
-**\*extensions.pocket.site = vazio**
-
-**Desabilita o pocket**
-
-**\*browser.cache.offline.enable = false**
-
-**Desabilita o cache offline**
-
-**\*browser.cache.disk\_cache\_ssl = false**
-
-**Desabilita o cache para conexões ssl**
-
-**\*browser.cache.memory.enable = false**
-
-**Desablita o cache na memória**
-
-**\*browser.cache.offline.capacity = 0**
-
-**Desabilita o cache offline**
-
-**\*geo.enabled = false**
-
-**Desabilita a geolocalização**
-
-**\*geo.provider.network.url = vazio**
-
-**Desabilita a geolocalização**
-
-**\*device.sensors.enabled = false**
-
-**Dificulta o rastreamento**
-
-**\*layout.css.visited\_links\_enabled = false**
-
-**Dificulta o rastreamento por meio de css**
-
-**\*browser.send\_pings.max\_per\_link = 0**
-
-**Desabilita notificações quando você clica**
-
-**\*security.OCSP.enabled = 0**
-
-**Desabilita o OCSP**
-
-**\*dom.push.enabled = false**
-
-**Desabilite as push notifications**
-
-**\*dom.push.connection.enabled = false**
-
-**Desabilite as push notifications**
-
-**\*dom.push.serverURL = vazio**
-
-**Desabilite as push notifications**
-
-**\*toolkit.telemetry.server = vazio**
-
-**Desabilita a telemetria**
-
-**\*dom.ipc.plugins.flash.subprocess.crashreporter.enabled = false**
-
-**Desabilita a telemetria**
-
-**\*app.normandy.enabled = false**
-
-**Desabilita a telemetria**
-
-**\*app.normandy.first\_run = false**
-
-**Desabilita a telemetria**
-
-**\*app.normandy.api\_url = vazio**
-
-**Desabilita a telemetria**
-
-**\*network.http.referer.spoofSource = true**
-
-**Envie como referer o site que você está visitando**
-
-**\*security.ssl3.rsa\_des\_ede\_sha = false**
-
-**Impede o uso de protocolos de segurança conhecidamente vulneráveis**
-
-**\*security.ssl.require\_safe\_negociation = true**
-
-**Otimização da criptografia**
-
-**\*security.tls.version.min = 3**
-
-**Escolha da versão mínima de tls. 4 para maior segurança.**
-
-**\*security.tls.enable\_0rtt\_data = true**
-
-**Melhoramento da privacidade na navegação**
-
-**\*identity.fxaccounts.enabled = false**
-
-**Desabilita a conta do Firefox**
-
-**\*pdfjs.enableScripting = false**
-
-**Desabilita o javascript ao abrir arquivos em PDF**
-
-**\*media.video\_stats.enabled = false**
-
-**Reduz a capacidade de identificação digital, desabilitando estatísticas de vídeo**
-
-**\*media.webspeech.synth.enabled = false**
-
-**Desabilita o Text-to-Speech da Web Speech API**
-
-**\*browser.zoom.siteSpecific = false**
-
-**Zoom específico para sites não são guardados**
-
-**\*network.proxy.socks\_remote\_dns = true**
-
-**Obriga o proxy para pesquisas DNS quando na utilização do SOCKS**
-
-**\*dom.disable\_window\_move\_resize = true**
-
-**Previne que scripts movam ou mudem o tamanho de janelas**
-
-**\*browser.link.open\_newwindow = 3**
-
-**Links abertos em novas abas em vez de novas janelas, prevenindo vazamentos da resuloção real**
-
-**\*browser.link.open\_newwindow.restriction = 0**
-
-**Links abertos em novas abas em vez de novas janelas, prevenindo vazamentos da resuloção real**
-
-**\*full-screen-api.enabled = false**
-
-**Desabilita a Fullscreen API, prevenindo vazamentos da resolução real**
-
-**\*browser.sessionstore.resume\_from\_crash = false**
-
-**Desabilita a restauração de sessão interrompida por crash**
+| __Descrição__ | __Parâmetro__ | __Valor__ |
+|-------------|------------|------------|
+| Ajuda a prevenir rastreamento entre diferentes domínios   | privacy.firstparty.isolate   | true    |
+| Maior resistência contra identificação do navegador       | privacy.resistFingerprinting | true    |
+| Maior resistência contra identificação do navegador       | privacy.trackingprotection.fingerprinting.enabled   | true      |
+| Maior resistência contra CryptoMining         | privacy.trackingprotection.cryptomining.enabled | true     |
+| Dificulta o rastreamento    | privacy.trackingprotection.enabled     | true      |
+| Dificulta o rastreamento    | browser.send_pings | false     |
+| Desabilita o carregamento prévio de páginas autocompletadas    | browser.urlbar.speculativeConnect.enabled   | false      |
+| Impede que os sites sejam notifivados quando você copia, cola ou corta conteúdo  | dom.event.clipboardevents.enabled | false     |
+| Desabilita o download automátivco do Widevine Content Decryption Module da Google    | media.eme.enabled     | false      |
+| Desabilita o Widevine Content Decryption Module    | media.gmp-widevinecdm.enabled | false     |
+| Desabilita a detecção do estatus do seu microfone e câmera pelos sites         | media.navigator.enabled     | false      |
+| Desabilita o WebGL      | webgl.disabled | true     |
+| Apenas envia o Referer header quando os hostnames completos coincidem. Varia de 0 a 2, sendo 2, o mais restritivo      | network.http.referer.XOriginPolicy     | 2     |
+| Limita as informações transmitidas entre origens. Varia de 0 a 2, sendo 2, o mais restritivo   | network.http.referer.XOriginTrimmingPolicy | 2     |
+| Limita o armazenamento de informações das sessões. Varia de 0 a 2, sendo 2, o mais restritivo    | browser.sessionstore.privacy_level    | 2     |
+| Impede o envio de alguns tipos de informação para servidores web    | beacon.enabled | false     |
+| Previne o envio de informações sobre downloads de arquivos executáveis para o Google Safe Browsing     | browser.safebrowsing.downloads.remote.enabled     | false      |
+| Desabilita o compartilhamento de informações    | browser.safebrowsing.provider.google.updateURL | vazio     |
+| Desabilita o compartilhamento de informações    | browser.safebrowsing.provider.google4.updateURL     | vazio      |
+| Desabilita o compartilhamento de informações    | browser.safebrowsing.provider.google4.dataSharingURL | vazio     |
+| Desabilita o compartilhamento de informações    | browser.safebrowsing.provider.google4.gethashURL     | vazio      |
+| Desabilita o safebrowsing         | browser.safebrowsing.blockedURIs.enabled | false     |
+| Desabilita o safebrowsing         | browser.safebrowsing.phishing.enabled     | false      |
+| Desabilita o safebrowsing         | browser.safebrowsing.malware.enabled | false     |
+| Desabilita o prefetch e o carregamento de cookies associados     | network.dns.disablePrefetch     | true      |
+| Desabilita o prefetch e o carregamento de cookies associados         | network.dns.disablePrefetchFromHTTPS | true     |
+| Desabilita o prefetch e o carregamento de cookies associados         | network.predictor.enabled     | false      |
+| Desabilita o prefetch e o carregamento de cookies associados         | network.predictor.enable-prefetch | false     |
+| Desabilita o prefetch e o carregamento de cookies associados         | network.prefetch-next    | false      |
+| Dificulta alguns tipos de ataques phishing         | network.IDN_show_punycode | true     |
+| Desabilita o WebRTC e previne o vazamento de ip quando em vpn         | media.peerconnection.enabled     | false      |
+| Desabilita o WebRTC e previne o vazamento de ip quando em vpn         | media.peerconnection.turn.disable | true     |
+| Desabilita o WebRTC e previne o vazamento de ip quando em vpn         | media.peerconnection.use_document_iceservers     | false      |
+| Desabilita o WebRTC e previne o vazamento de ip quando em vpn         | media.peerconnection.video.enabled | false     |
+| Desabilita o WebRTC e previne o vazamento de ip quando em vpn         | media.peerconnection.identity.timeout    | 1      |
+| Dificulta o envio de informações sobre o status da bateria         | dom.battery.enabled | false     |
+| Desabilita o pocket         | extensions.pocket.enabled     | false      |
+| Desabilita o pocket         | extensions.pocket.api | vazio     |
+| Desabilita o pocket   | extensions.pocket.site   | vazio    |
+| Desabilita o cache offline      | browser.cache.offline.enable | false    |
+| Desabilita o cache para conexões ssl      | browser.cache.disk_cache_ssl   | false      |
+| Desablita o cache na memória         | browser.cache.memory.enable | false     |
+| Desabilita o cache offline   | browser.cache.offline.capacity     | 0      |
+| Desabilita a geolocalização    | geo.enabled | false     |
+| Desabilita a geolocalização    | geo.provider.network.url   | vazio      |
+| Dificulta o rastreamento  | device.sensors.enabled | false     |
+| Dificulta o rastreamento por meio de css   | layout.css.visited_links_enabled     | false      |
+| Desabilita notificações quando você clica    | browser.send_pings.max_per_link | 0     |
+| Desabilita o OCSP        | security.OCSP.enabled  | 0      |
+| Desabilite as push notifications     | dom.push.enabled | false     |
+| Desabilite as push notifications    | dom.push.connection.enabled  | false     |
+| Desabilite as push notifications  | dom.push.serverURL | vazio     |
+| Desabilita a telemetria    | dom.ipc.plugins.flash.subprocess.crashreporter.enabled | false     |
+| Desabilita a telemetria    | app.normandy.enabled     | false      |
+| Desabilita a telemetria    | app.normandy.first_run | false     |
+| Desabilita a telemetria    | app.normandy.api_url    | vazio      |
+| Desabilita a telemetria    | browser.safebrowsing.provider.google4.dataSharingURL | vazio     |
+| Desabilita a telemetria    | browser.safebrowsing.provider.google4.gethashURL     | vazio      |
+| Desabilita a telemetria    | browser.safebrowsing.blockedURIs.enabled | false     |
+| Desabilita a telemetria    | browser.safebrowsing.phishing.enabled     | false      |
+| Desabilita a telemetria    | devtools.onboarding.telemetry.logged | false     |
+| Desabilita a telemetria    | browser.newtabpage.activity-stream.feeds.telemetry     | false      |
+| Desabilita a telemetria    | browser.newtabpage.activity-stream.telemetry | false     |
+| Desabilita a telemetria    | browser.ping-centre.telemetry    | false      |
+| Desabilita a telemetria    | toolkit.telemetry.bhrPing.enabled | false     |
+| Desabilita a telemetria    | toolkit.telemetry.firstShutdownPing.enabled     | false      |
+| Desabilita a telemetria    | toolkit.telemetry.newProfilePing.enabled  | false     |
+| Desabilita a telemetria    | toolkit.telemetry.reportingpolicy.firstRun     | false      |
+| Desabilita a telemetria   | toolkit.telemetry.server   | vazio     |
+| Desabilita a telemetria    | toolkit.telemetry.shutdownPingSender.enabled | false     |
+| Desabilita a telemetria    | toolkit.telemetry.unified    | false      |
+| Desabilita a telemetria    | toolkit.telemetry.updatePing.enabled | false     |
+| Desabilita a telemetria    | toolkit.telemetry.archive.enabled    | false      |
+| Desabilita a telemetria    | datareporting.healthreport.uploadEnabled| false     |
+| Desabilita a telemetria    | datareporting.policy.dataSubmissionEnabled     | false      |
+| Envie como referer o site que você está visitando        | network.http.referer.spoofSource | true     |
+| Impede o uso de protocolos de segurança conhecidamente vulneráveis    | security.ssl3.rsa_des_ede_sha     | false      |
+| Otimização da criptografia        | security.ssl.require_safe_negociation | true     |
+| Escolha da versão mínima de tls. 4 para maior segurança.        | security.tls.version.min    | 3      |
+| Melhoramento da privacidade na navegação         | security.tls.enable_0rtt_data | true     |
+| Desabilita a conta do Firefox         | identity.fxaccounts.enabled    | false      |
+| Reduz a capacidade de identificação digital, desabilitando estatísticas de vídeo         | media.video_stats.enabled | false     |
+| Desabilita o Text-to-Speech da Web Speech API        | media.webspeech.synth.enabled   | false      |
+| Zoom específico para sites não são guardados        | browser.zoom.siteSpecific | false     |
+| Obriga o proxy para pesquisas DNS quando na utilização do SOCKS         | network.proxy.socks_remote_dns    | true      |
+| Previne que scripts movam ou mudem o tamanho das janelas        | dom.disable_window_move_resize | true     |
+| Links abertos em novas abas em vez de novas janelas, prevenindo vazamentos da resuloção real        | browser.link.open_newwindow    | 3      |
+| Links abertos em novas abas em vez de novas janelas, prevenindo vazamentos da resuloção real         | browser.link.open_newwindow.restriction | 0     |
+| Desabilita a Fullscreen API, prevenindo vazamentos da resolução real         | full-screen-api.enabled     | false      |
+| Desabilita a restauração de sessão interrompida por crash         | browser.sessionstore.resume_from_crash    | false      |
+| Desabilita o armazenamento de dados no computador do usuário        | dom.storage.enabled | false     |
+| Desabilita o cache do DOM       | dom.caches.enabled    | false     |
+| Desabilita o envio diário de informações à Mozilla sobre add-ons instalados e metadados relacionados        | extensions.getAddons.cache.enabled | false    |
+| Desabilita o javascript ao abrir arquivos em PDF         | pdfjs.enableScripting     | false      |
+
+Não é necessário realizar todas as modificações aqui apresentadas, o leitor ficando responsável por verificar o que lhe for suficiente.  
 
 ## Apêndice C \(configurações Brave\)
 

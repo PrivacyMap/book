@@ -1,16 +1,18 @@
 # Senhas
 
-## O que você precisa saber sobre senhas.
+## O que você precisa saber sobre senhas
 
-Ter diversas senhas para diversos cadastros é um problema enfrentado por muitas pessoas. Algumas acabam reutilizando as mesmas senhas em lojas, aplicativos e assim por diante. **Essa prática não é recomendada!** 
+Ter senhas diferentes para todas as diversas contas que compõem uma vida digital é um problema enfrentado por muitas pessoas. Algumas acabam reutilizando as mesmas senhas em lojas, aplicativos e assim por diante. **Essa prática não é recomendada!** 
 
-Não reutilize de modo algum senhas recicladas mesmo que elas sejam longas e complexas. "Reciclar senhas" é ato de buscar mais conveniência utilizando a mesma senha para todos os cadastros que possuímos. Isso não é uma prática recomendada pois caso alguém descubra sua senha, ela com certeza estará mais próxima de ter acesso também as suas outras contas. Por exemplo, um possível criminoso obtém acesso a sua conta da Netflix e com algumas informações adicionais, ele estará mais próximo de recuperar todas as suas senhas das demais contas pelo seu e-mail.
+"Reciclar senhas" é um ato comum para os que buscam mais conveniência, contudo, essa não é uma boa prática. Não reutilize, de modo algum, senhas recicladas, mesmo que elas sejam longas e complexas. Caso alguém descubra uma de suas senhas, por você utilizá-la em outros serviços, certamente poderá obter acesso às demais contas, algo ainda mais trivial caso todas utilizarem o mesmo email. 
 
-Os gerenciadores de senhas são a solução para a reciclagem de senhas. Estes aplicativos te auxiliam no gerenciamento das suas senhas, notas e informações sensíveis atuando como um "cofre virtual" para o armazenamento seguro das suas informações. 
+Adicionalmente, senhas fracas em contas de email apresentam grande potencial de propagação de ataques, por serem comuns pontos de falha. Caso um criminoso obtenha acesso a sua conta de email, poderá recuperar as senhas de todas as contas vinculadas a esse email. Ainda, a quantidade de informação que você mesmo disponibiliza em suas redes sociais, pode ser suficiente para ajudar um atacante a descobrir alguma senha utilizada por você. 
 
-Atualmente existem diversas senhas que já foram expostas devido aos recorrentes vazamentos de dados. Diversos bancos de dados com milhares de usuários já foram expostos publicamente e provavelmente alguns dos seus dados já estão públicos.
+O problema torna-se ainda mais grave quando notamos que, devido aos recorrentes vazamentos de dados e constantes explorações de vulnerabilidades, diversos bancos de dados, alguns com milhares ou até milhôes de usuários, já foram expostos publicamente e, muito provavelmente, alguns dos seus dados já são de conhecimento público.  
 
-Dado todos os possíveis problemas de Segurança e Privacidade relacionados ao gerenciamento inadequado de senhas, segue abaixo algumas dicas:
+Os gerenciadores auxiliam na solução desses problemas. Esses aplicativos têm como objetivo principal o gerenciamento das suas senhas, notas e informações sensíveis, atuando como um "cofre virtual" para o armazenamento seguro de informações. Não se pode reverter vazamentos já ocorridos, porém, é possível reduzir o impacto potencial desses vazamentos em sua vida digital. 
+
+Dado todos os possíveis problemas de Segurança e Privacidade relacionados ao gerenciamento inadequado de senhas, seguem abaixo algumas dicas:
 
 ## Checklist de Segurança e Privacidade
 
