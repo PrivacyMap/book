@@ -16,30 +16,30 @@ description: 'Navegadores, sua principal ferramenta para exploração da interne
 
 | __Informações utilizadas no rastreamento de usuários:__ |
 |-------------|
-| **\-user agent** |
-| **\-idioma** |
-| **\-extensões instaladas no navegador** |
-| **\-tipo/modelo de dispositivo** |
-| **\-sistema operacional** |
-| **\-lista de fontes** |
-| **\-presença de um bloqueador de anúncios** |
-| **\-resolução da tela** |
-| **\-hora do sistema** |
-| **\-elemento canvas** |
-| **\-preferência de cookies** |
-| **\-preferência de "do not track"** |
-| **\-estado do javascript** |
-| **\-presença de câmera e microfone** |
-| **\-estado da bateria** |
-| **\-informações do driver gráfico** |
-| **\-arquitetura da cpu** |
-| **\-capacidade da memória ram instalada** |
+| **\- user agent** |
+| **\- idioma** |
+| **\- extensões instaladas no navegador** |
+| **\- tipo/modelo de dispositivo** |
+| **\- sistema operacional** |
+| **\- lista de fontes** |
+| **\- presença de um bloqueador de anúncios** |
+| **\- resolução da tela** |
+| **\- hora do sistema** |
+| **\- elemento canvas** |
+| **\- preferência de cookies** |
+| **\- preferência de "do not track"** |
+| **\- estado do javascript** |
+| **\- presença de câmera e microfone** |
+| **\- estado da bateria** |
+| **\- informações do driver gráfico** |
+| **\- arquitetura da cpu** |
+| **\- capacidade da memória ram instalada** |
 
- **dentre muitas outras** 
+ **dentre muitas outras...** 
 
 **Somadas, essas informações são mais que suficientes para identificar um usuário com precisão, podendo definir sua navegação por inteiro.**
 
-**Recentemente, novos métodos de obtenção de impressão digital foram tornados públicos, causando certo furor na comunidade de privacidade, contudo, seguindo os métodos aqui apresentados (tanto no presente capítulo quanto neste livro), o usuário será capaz de se proteger mesmo desse novo tipo de rastreio. A utilização de múltiplos navegadores, mudanças no tamanho da janela de navegação, bem como a utilização do Tor Browser, serão suficientes para gerar diferentes identidades digitais.**
+**Recentemente, novos métodos de obtenção de impressão digital foram tornados públicos, causando certa agitação na comunidade de privacidade, contudo, seguindo os métodos aqui apresentados (tanto no presente capítulo quanto neste livro), o usuário será capaz de se proteger mesmo desse novo tipo de rastreio. A utilização de múltiplos navegadores, mudanças no tamanho da janela de navegação, bem como a utilização do Tor Browser, serão suficientes para gerar diferentes identidades digitais.**
 
 ## SEGURANÇA
 
